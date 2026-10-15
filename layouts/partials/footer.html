@@ -1,5 +1,10 @@
 <footer class="site-foot">
-  <p>{{ site.Params.author }} · <a href="mailto:{{ site.Params.email }}">{{ site.Params.email }}</a></p>
+  <p class="foot-brand">{{ site.Title }}</p>
   <p class="muted">{{ site.Params.tagline }}</p>
-  <p class="muted"><a href="{{ "index.xml" | relURL }}">Flux RSS</a></p>
+  <nav class="foot-nav">
+    <a href="{{ "/" | relURL }}">Billets</a>
+    <a href="{{ "archives/" | relURL }}">Archives</a>
+    <a href="{{ "tags/" | relURL }}">Tags</a>
+    <a href="{{ "index.xml" | relURL }}">Flux RSS</a>
+  </nav>
 </footer>

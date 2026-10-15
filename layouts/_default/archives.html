@@ -6,7 +6,7 @@
 {{ range (where site.RegularPages "Section" "posts").GroupByDate "2006" }}
 <section class="archive-year">
   <h2>{{ .Key }}</h2>
-  <ul class="post-list">
+  <ul class="archive-list">
     {{ range .Pages.ByDate.Reverse }}
     <li>
       <a class="item" href="{{ .RelPermalink }}">

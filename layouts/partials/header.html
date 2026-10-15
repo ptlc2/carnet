@@ -1,5 +1,8 @@
 <header class="site-head">
-  <a class="brand" href="{{ "/" | relURL }}">{{ site.Title }}</a>
+  <a class="brand" href="{{ "/" | relURL }}">
+    <span class="brand-mark" aria-hidden="true">A</span>
+    <span class="brand-name">{{ site.Title }}</span>
+  </a>
   <nav>
     <a href="{{ "/" | relURL }}">Billets</a>
     <a href="{{ "archives/" | relURL }}">Archives</a>

@@ -1,8 +1,8 @@
 {{ define "main" }}
-<section class="intro">
+<section class="hero">
   <h1>{{ site.Title }}</h1>
   <p class="lead">{{ site.Params.intro }}</p>
-  <p class="subscribe"><a href="{{ "index.xml" | relURL }}">S'abonner au flux RSS</a></p>
+  <p class="hero-actions"><a class="btn" href="{{ "index.xml" | relURL }}">S'abonner au flux RSS</a></p>
 </section>
 <ul class="post-list">
   {{ range (where site.RegularPages "Section" "posts").ByDate.Reverse }}
