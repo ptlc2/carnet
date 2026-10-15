@@ -1,0 +1,21 @@
+{{ define "main" }}
+<section class="intro">
+  <h1>{{ .Title }}</h1>
+  {{ with .Content }}<div class="lead">{{ . }}</div>{{ end }}
+</section>
+{{ range (where site.RegularPages "Section" "posts").GroupByDate "2006" }}
+<section class="archive-year">
+  <h2>{{ .Key }}</h2>
+  <ul class="post-list">
+    {{ range .Pages.ByDate.Reverse }}
+    <li>
+      <a class="item" href="{{ .RelPermalink }}">
+        <span class="item-title">{{ .Title }}</span>
+        <span class="date">{{ .Date | time.Format ":date_long" }}</span>
+      </a>
+    </li>
+    {{ end }}
+  </ul>
+</section>
+{{ end }}
+{{ end }}

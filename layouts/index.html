@@ -1,7 +1,8 @@
 {{ define "main" }}
 <section class="intro">
   <h1>{{ site.Title }}</h1>
-  <p class="lead">{{ site.Params.tagline }}.</p>
+  <p class="lead">{{ site.Params.intro }}</p>
+  <p class="subscribe"><a href="{{ "index.xml" | relURL }}">S'abonner au flux RSS</a></p>
 </section>
 <ul class="post-list">
   {{ range (where site.RegularPages "Section" "posts").ByDate.Reverse }}
@@ -14,4 +15,5 @@
   </li>
   {{ end }}
 </ul>
+<p class="more"><a href="{{ "archives/" | relURL }}">Toutes les archives</a></p>
 {{ end }}
