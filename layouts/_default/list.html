@@ -1,0 +1,19 @@
+{{ define "main" }}
+<section class="intro">
+  <h1>{{ .Title }}</h1>
+  {{ with .Content }}<div class="lead">{{ . }}</div>{{ end }}
+</section>
+<ul class="post-list">
+  {{ range .Pages.ByDate.Reverse }}
+  <li>
+    <a class="item" href="{{ .RelPermalink }}">
+      <span class="item-title">{{ .Title }}</span>
+      <span class="date">{{ .Date | time.Format ":date_long" }}</span>
+      <span class="item-summary">{{ .Summary }}</span>
+    </a>
+  </li>
+  {{ else }}
+  <li><p class="muted">Rien ici pour l'instant.</p></li>
+  {{ end }}
+</ul>
+{{ end }}

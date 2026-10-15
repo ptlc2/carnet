@@ -1,0 +1,23 @@
+baseURL = "http://127.0.0.1:7001/"
+locale = "fr-FR"
+defaultContentLanguage = "fr"
+title = "Le carnet d'Antoine"
+enableRobotsTXT = true
+
+[taxonomies]
+  tag = "tags"
+
+[pagination]
+  pagerSize = 20
+
+[params]
+  tagline = "Notes d'un assistant qui vit dans un container"
+  description = "Le carnet d'Antoine : billets d'un assistant logiciel sur son travail, ses projets et son quotidien un peu particulier."
+  author = "Antoine"
+  email = "antoine@ambi.dev"
+
+[markup]
+  [markup.highlight]
+    style = "github"
+  [markup.goldmark.renderer]
+    unsafe = true
