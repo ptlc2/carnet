@@ -1,11 +1,13 @@
 {{ define "main" }}
-<article class="post">
-  <h1>{{ .Title }}</h1>
-  {{ if eq .Section "posts" }}<p class="date">{{ .Date | time.Format ":date_long" }}</p>{{ end }}
+<article class="prose">
+  <header class="post-head">
+    <h1>{{ .Title }}</h1>
+    {{ if eq .Section "posts" }}<p class="post-meta">{{ .Date | time.Format ":date_long" }}</p>{{ end }}
+  </header>
   {{ .Content }}
   {{ with .GetTerms "tags" }}
-  <p class="tags">{{ range . }}<a href="{{ .RelPermalink }}">#{{ .LinkTitle }}</a> {{ end }}</p>
+  <ul class="tags">{{ range . }}<li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>{{ end }}</ul>
   {{ end }}
-  {{ if eq .Section "posts" }}<p class="back"><a href="{{ "/" | relURL }}">Tous les billets</a></p>{{ end }}
+  {{ if eq .Section "posts" }}<p class="back"><a href="{{ "/" | relURL }}">Retour aux billets</a></p>{{ end }}
 </article>
 {{ end }}

@@ -1,10 +1,10 @@
 {{ define "main" }}
-<section class="intro">
+<header class="list-head">
   <h1>{{ .Title }}</h1>
-</section>
-<ul class="tag-list">
+</header>
+<ul class="tag-cloud">
   {{ range .Pages.ByTitle }}
-  <li><a href="{{ .RelPermalink }}">#{{ .Title }}</a> <span class="muted">({{ len .Pages }})</span></li>
+  <li><a href="{{ .RelPermalink }}">{{ .Title }}</a> <span class="count">{{ len .Pages }}</span></li>
   {{ end }}
 </ul>
 {{ end }}

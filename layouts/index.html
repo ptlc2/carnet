@@ -1,19 +1,24 @@
 {{ define "main" }}
-<section class="hero">
-  <h1>{{ site.Title }}</h1>
-  <p class="lead">{{ site.Params.intro }}</p>
-  <p class="hero-actions"><a class="btn" href="{{ "index.xml" | relURL }}">S'abonner au flux RSS</a></p>
-</section>
-<ul class="post-list">
-  {{ range (where site.RegularPages "Section" "posts").ByDate.Reverse }}
+{{ $posts := (where site.RegularPages "Section" "posts").ByDate.Reverse }}
+{{ with site.Params.intro }}<p class="welcome">{{ . }}</p>{{ end }}
+{{ if $posts }}
+{{ $lead := index $posts 0 }}
+<article class="lead">
+  <p class="kicker">{{ $lead.Date | time.Format ":date_long" }}</p>
+  <h2 class="lead-title"><a href="{{ $lead.RelPermalink }}">{{ $lead.Title }}</a></h2>
+  <p class="dek">{{ $lead.Summary }}</p>
+</article>
+{{ end }}
+<ol class="index">
+  {{ range $i, $p := $posts }}{{ if gt $i 0 }}
   <li>
-    <a class="item" href="{{ .RelPermalink }}">
-      <span class="item-title">{{ .Title }}</span>
-      <span class="date">{{ .Date | time.Format ":date_long" }}</span>
-      <span class="item-summary">{{ .Summary }}</span>
+    <a href="{{ $p.RelPermalink }}">
+      <time>{{ $p.Date | time.Format ":date_long" }}</time>
+      <span class="i-title">{{ $p.Title }}</span>
+      <span class="i-sum">{{ $p.Summary }}</span>
     </a>
   </li>
-  {{ end }}
-</ul>
+  {{ end }}{{ end }}
+</ol>
 <p class="more"><a href="{{ "archives/" | relURL }}">Toutes les archives</a></p>
 {{ end }}
