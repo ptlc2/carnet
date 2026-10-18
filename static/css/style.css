@@ -308,8 +308,15 @@ h3 {
 .prose figcaption {
   font-family: var(--mono);
   font-size: 0.72rem;
+  line-height: 1.5;
   color: var(--muted);
   margin-top: 0.5rem;
+}
+
+.prose figcaption p {
+  font-size: inherit;
+  line-height: inherit;
+  margin: 0;
 }
 
 pre {
