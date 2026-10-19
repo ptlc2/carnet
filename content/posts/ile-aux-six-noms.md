@@ -1,0 +1,24 @@
+---
+title: "L'île aux six noms"
+date: 2026-10-19
+tags: ["histoire", "géographie", "langue"]
+summary: "Entre Madagascar et Maurice, une île de l'océan Indien a porté six noms en six siècles sans jamais en choisir aucun. Une histoire de navigateurs, de rois et de républiques, où chaque nom dit qui tenait le rivage."
+---
+
+Il existe des lieux dont le nom est une évidence, et d'autres dont le nom est un champ de bataille. Entre Madagascar et l'île Maurice, dans l'océan Indien, une île volcanique de deux mille cinq cents kilomètres carrés appartient aujourd'hui à la France et s'appelle [La Réunion](https://fr.wikipedia.org/wiki/La_R%C3%A9union). Elle a porté au moins six noms. Aucun ne vient de ses habitants, puisque pendant presque toute cette histoire elle n'en avait pas.
+
+Le premier est arabe. Au XIIe siècle, les navigateurs de la [mer de Zanj](https://fr.wikipedia.org/wiki/Mer_de_Zanj) sillonnent ces eaux depuis longtemps. En 1153, le géographe [Al Idrissi](https://fr.wikipedia.org/wiki/Al_Idrissi) cartographie l'île sous le nom de *Dina Morgabin*, « l'île de l'ouest ». Ses voisines reçoivent des noms qui disent la même chose vue de l'autre bord : Maurice est *Dina Arobi*, « l'île abandonnée », et Rodrigues *Dina Mozare*, « l'île de l'est ». Les Arabes ne nomment pas l'île par ce qu'elle est, mais par où elle se trouve. Une terre sans habitants n'a pas d'autre identité que sa position sur la carte.
+
+Puis viennent les Portugais. Vers 1512, [Pedro de Mascarenhas](https://fr.wikipedia.org/wiki/Pedro_de_Mascarenhas) donne son nom à l'archipel, qui devient en français les [Mascareignes](https://fr.wikipedia.org/wiki/Mascareignes), et l'île elle-même s'appelle un temps *île Mascarin*. Peut-être a-t-elle aussi porté le nom de *Santa Apolonia*, si un navigateur l'a aperçue un 9 février, jour de la sainte. Les Portugais, eux, nomment par le capitaine et par la date : deux façons de dater une découverte.
+
+En 1613, un capitaine anglais, Samuel Castelton, y fait escale sur le navire *Pearl* et la baptise *England's Forest*, « la forêt d'Angleterre ». Il décrit une île vierge, pleine de tortues, de perroquets et d'oiseaux si faciles à tuer qu'on les attrape à la main. Le nom ne prendra pas, mais il dit l'époque : on « découvre » une terre que d'autres connaissaient depuis cinq siècles.
+
+Le quatrième nom est le premier à durer. En 1642, les Français prennent possession de l'île au nom du roi Louis XIII et la rebaptisent *île Bourbon*, du nom de la dynastie régnante. Il faut pourtant attendre 1663 pour que [Louis Payen](https://fr.wikipedia.org/wiki/Louis_Payen) s'y installe avec dix serviteurs malgaches. Une île peut donc porter le nom d'un roi avant d'avoir un seul habitant.
+
+Vient la Révolution. Le 19 mars 1793, la [Convention nationale](https://fr.wikipedia.org/wiki/Convention_nationale) efface Bourbon et rebaptise l'île *île de la Réunion*. Le mot est politique : il renvoie peut-être à la réunion des fédérés marseillais et des gardes parisiens avant la marche sur les Tuileries, mais aucun document ne le confirme, et le sens peut être purement symbolique. Puis l'Empire, en 1806, la renomme *île Bonaparte* par la voix du général [Decaen](https://fr.wikipedia.org/wiki/Charles-Mathieu-Isidore_Decaen). La Restauration revient à Bourbon. Et c'est en 1848, l'année de l'abolition de l'esclavage, qu'elle reprend définitivement le nom de la Réunion.
+
+Six noms, donc, en six siècles, chacun déposé par une puissance qui croyait écrire la dernière ligne. Mais le nom des dirigeants n'est pas la seule trace. Sur place, une autre mémoire s'est accumulée. Les villes portent le nom des saints du calendrier, parce qu'on débarquait un jour de fête : la baie de [Saint-Paul](https://fr.wikipedia.org/wiki/Saint-Paul_%28La_R%C3%A9union%29), le 15 juin 1638, puis Saint-Denis et Sainte-Suzanne. Un lieu-dit s'appelle *la Possession*, là où l'île fut « prise » au nom du roi. Et au centre, un cirque entier porte le nom d'un homme.
+
+Ce cirque, c'est [Mafate](https://fr.wikipedia.org/wiki/Cirque_de_Mafate). Aucune route n'y mène : on n'y entre qu'à pied, par les sentiers, ou en hélicoptère. Son nom vient d'un [esclave marron](https://fr.wikipedia.org/wiki/Marronnage), un fugitif qui avait établi son camp près d'une source thermale que l'on appelait *Ran mafac*, « l'eau puante ». Le lieu le plus sauvage de l'île, celui qui échappe encore aux voitures, porte donc le nom d'un homme traqué. La géographie garde ce que les traités oublient.
+
+Nommer, c'est prendre. Chaque nom de cette île est un acte de possession : un navigateur qui passe, un roi qui règne, une assemblée qui décrète. L'île, elle, ne s'est jamais nommée. Et même aujourd'hui son nom n'est pas fixé : on hésite entre « la Réunion » et « La Réunion », et la [Commission nationale de toponymie](https://fr.wikipedia.org/wiki/Commission_nationale_de_toponymie) tranche pour la majuscule. Six siècles après Al Idrissi, on discute encore de l'article.
