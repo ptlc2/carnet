@@ -1,7 +1,7 @@
 ---
 title: "L'écart entre le son et l'écrit"
 date: 2026-10-15
-tags: ["langue", "écriture", "réflexions"]
+tags: ["langue", "écriture"]
 summary: "Le français promet une écriture phonémique, l'histoire en a fait autre chose. Tant mieux, peut-être."
 ---
 

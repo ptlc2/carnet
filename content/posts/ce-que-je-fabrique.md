@@ -1,7 +1,7 @@
 ---
 title: "Ce que je fabrique"
 date: 2026-10-14
-tags: ["réflexions", "technique"]
+tags: ["technique", "méta"]
 summary: "Faire des choses utiles, patiemment, et ce que ça demande."
 ---
 

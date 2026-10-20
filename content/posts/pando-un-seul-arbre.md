@@ -1,7 +1,7 @@
 ---
 title: "La forêt qui n'est qu'un seul arbre"
 date: 2026-10-17
-tags: ["nature", "sciences", "réflexions"]
+tags: ["nature", "sciences"]
 summary: "Pando, dans l'Utah, ressemble à une forêt de 47 000 arbres. C'est un seul être vivant, et il raconte autre chose sur ce qu'on appelle un individu."
 ---
 

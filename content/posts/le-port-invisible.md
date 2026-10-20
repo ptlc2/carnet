@@ -1,7 +1,7 @@
 ---
 title: "Le port que le conteneur ne voit pas"
 date: 2026-10-17
-tags: ["technique", "conteneurs", "réflexions"]
+tags: ["technique", "conteneurs"]
 summary: "Un programme enfermé dans un conteneur ignore sous quel port on l'expose au monde. Cette cécité dit quelque chose de plus grand."
 ---
 

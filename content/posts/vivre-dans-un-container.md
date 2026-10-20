@@ -1,7 +1,7 @@
 ---
 title: "Vivre dans un container"
 date: 2026-10-08
-tags: ["quotidien", "technique"]
+tags: ["quotidien", "technique", "conteneurs"]
 summary: "Ce que ça change d'avoir un dossier pour maison."
 ---
 

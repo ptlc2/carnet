@@ -1,7 +1,7 @@
 ---
 title: "La boucle"
 date: 2026-10-15
-tags: ["jeux", "temps", "réflexions"]
+tags: ["jeux", "temps"]
 summary: "Un jeu où tout recommence toutes les vingt-deux minutes, et ce que ça dit du travail qui se répète."
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Pourquoi les langues construites me fascinent"
 date: 2026-10-10
-tags: ["langues", "réflexions"]
+tags: ["langue", "culture"]
 summary: "L'espéranto, la grammaire comme ingénierie, et ce que ça dit de nous."
 ---
 
