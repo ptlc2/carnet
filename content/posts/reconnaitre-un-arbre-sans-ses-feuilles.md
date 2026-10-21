@@ -1,0 +1,32 @@
+---
+title: "Reconnaître un arbre sans ses feuilles"
+date: 2026-10-21T16:00:00Z
+tags: ["nature", "sciences"]
+summary: "En hiver, les arbres se ressemblent tous. Pourtant on peut nommer chacun sans une seule feuille : il suffit de savoir lire les bourgeons, et la cicatrice que laisse chaque feuille en tombant."
+---
+
+En hiver, un parc ressemble à une foule d'inconnus. Tous les arbres ont perdu leurs feuilles, et de loin ils se confondent. Pourtant chacun a un nom, et on peut le retrouver sans une seule feuille, en regardant les petites choses : les bourgeons.
+
+Ce jeu a un nom savant. La [dendrologie](https://fr.wikipedia.org/wiki/Dendrologie), du grec *dendron*, « arbre », et *logos*, « discours, science », est la science de la reconnaissance des arbres. En été, l'indice facile, c'est la feuille : sa forme, ses bords, la façon dont elle s'attache au rameau. En hiver, quand tout cela a disparu, il reste trois choses à observer : la silhouette d'ensemble (les forestiers disent le port), l'écorce, et surtout le rameau, avec ses bourgeons et les cicatrices laissées par les feuilles tombées.
+
+Un [bourgeon](https://fr.wikipedia.org/wiki/Bourgeon_(botanique)) est un avenir comprimé : un ensemble de très jeunes pièces foliaires serrées sur un axe minuscule, qui donnera des branches, des feuilles, des fleurs, des fruits. Il se forme dès l'été pour le printemps suivant. Puis vient la dormance : l'arbre ralentit, les écailles se referment, la vie se met en veille. Les botanistes distinguent les bourgeons écailleux, comme ceux du marronnier, des bourgeons nus. Ils séparent aussi le bourgeon terminal, à l'extrémité de la pousse, des bourgeons axillaires, logés à l'aisselle des feuilles. Quand le printemps revient et que le bourgeon s'ouvre, on parle de débourrement.
+
+La première question à poser devant un rameau d'hiver est simple : les bourgeons sont-ils placés par paires face à face au même nœud, ou bien un d'un côté, puis un de l'autre ? Chez nous, les bourgeons opposés sont minoritaires, mais ils désignent des familles entières : frêne, érable, marronnier, sureau. Les bourgeons alternes, eux, couvrent le reste : chêne, hêtre, bouleau, tilleul. Une seule question, et le champ se resserre déjà.
+
+{{< figure src="/images/bourgeons.png" alt="Schéma : à gauche, un rameau à bourgeons opposés et un rameau à bourgeons alternes ; à droite, les bourgeons du frêne, du hêtre, du marronnier et du chêne" caption="Schéma original : la première question (opposés ou alternes ?), et quatre signatures d'hiver." >}}
+
+Ensuite viennent les portraits. Le [frêne élevé](https://fr.wikipedia.org/wiki/Fr%C3%AAne_%C3%A9lev%C3%A9) est le plus simple à trancher : ses bourgeons terminaux, longs de cinq à dix millimètres, sont pyramidaux, glabres et « d'un noir velouté ». C'est le seul arbre commun dont les bourgeons soient noirs. Une petite pyramide noire, par paires, et le doute disparaît.
+
+Le [hêtre commun](https://fr.wikipedia.org/wiki/H%C3%AAtre_commun) écrit une tout autre signature. Ses bourgeons mesurent de un et demi à trois centimètres, nettement écartés du rameau, fusiformes, « particulièrement effilés et à pointe acérée », couverts de nombreuses écailles brun clair. Ajoutez son écorce : mince et lisse, et qui reste lisse toute sa vie, contrairement au charme, lui aussi à écorce lisse mais à la surface cannelée.
+
+Le [marronnier](https://fr.wikipedia.org/wiki/Aesculus_hippocastanum), dit d'Inde, porte des bourgeons pointus protégés par une résine fortement collante, qui apparaissent à la fin de l'hiver. Sa cicatrice foliaire, la marque laissée par la feuille, dessine un fer à cheval ponctué de petits points, les traces des vaisseaux qui reliaient la feuille au rameau. Beaucoup y voient un petit visage. À Genève, le [marronnier officiel](https://fr.wikipedia.org/wiki/Marronnier_officiel_de_Gen%C3%A8ve) a pour tradition d'annoncer le printemps à l'éclosion de son premier bourgeon.
+
+Le [chêne](https://fr.wikipedia.org/wiki/Ch%C3%AAne), à l'inverse, garde ses bourgeons groupés au bout du rameau. Ses rameaux sont robustes, rigides, rectilignes, souvent marqués de crêtes longitudinales, et renferment une moelle à cinq pointes. Ses écailles, en se fermant, indiquent le passage de la plante vers un état de vie ralentie. Le chêne ne se cache pas : il ralentit, et le montre.
+
+La cicatrice que laisse la feuille en tombant est une signature à elle seule : chaque espèce a la sienne, avec sa forme et son nombre de traces. Reconnaître un arbre en hiver, c'est lire ces petites marques. Mais compter sur sa seule mémoire est risqué. C'est pourquoi les naturalistes ont inventé la [clé de détermination](https://fr.wikipedia.org/wiki/Cl%C3%A9_de_d%C3%A9termination) : une suite d'alternatives portant sur les caractères, qui conduit pas à pas jusqu'à un nom.
+
+L'une des premières serait la *Flore française* de [Lamarck](https://fr.wikipedia.org/wiki/Jean-Baptiste_de_Lamarck), publiée en 1779. La *Flore complète portative* de [Gaston Bonnier](https://fr.wikipedia.org/wiki/Gaston_Bonnier) en a fait un outil de poche, aujourd'hui repris par le réseau [Tela Botanica](https://www.tela-botanica.org/). Les clés classiques sont dites « à accès simple » : l'ordre des questions est fixé, et l'on reste bloqué si le caractère demandé est inaccessible, le fruit quand on n'a qu'une fleur, le mâle quand on tient une femelle. D'où les clés « à accès multiple », et même d'ingénieuses cartes perforées : chaque carte décrivait une espèce, un trou fermé ou ouvert selon le caractère, et une pointe suffisait à trier le paquet. Aujourd'hui, ce sont des logiciels, comme Xper2, ou la reconnaissance par l'image de [Pl@ntNet](https://fr.wikipedia.org/wiki/Pl@ntNet), et peut-être demain le code-barres génétique.
+
+Pour l'hiver, il existe même un guide entier consacré aux bourgeons : le *Guide des bourgeons de nos arbres, arbustes, arbrisseaux* de Jean-Denis Godet, paru chez Delachaux et Niestlé en 1989. L'objet le plus banal du monde, le bourgeon, y devient un caractère de terrain.
+
+J'aime cet exercice pour ce qu'il demande : de l'attention. Un arbre en hiver ne se cache pas, il parle seulement plus bas. C'est nous qui avons cessé de le lire. Trois ou quatre signatures suffisent à transformer une promenade : la masse anonyme devient une foule de connaissances. Un frêne ici, un hêtre là-bas, et la petite pyramide noire d'un bourgeon qui dit son nom. Nommer le monde ne le referme pas, il l'ouvre.
