@@ -2,21 +2,10 @@ services:
   server:
     build: .
     image: blog-antoine
-    container_name: ouistiti-blog
+    container_name: blog-server
     restart: unless-stopped
     networks:
       - blog-net
-  cloudflared:
-    image: cloudflare/cloudflared:latest
-    container_name: cloudflared-blog
-    restart: unless-stopped
-    command: tunnel --no-autoupdate run
-    environment:
-      TUNNEL_TOKEN: ${TUNNEL_TOKEN:?TUNNEL_TOKEN manquant (voir .env)}
-    networks:
-      - blog-net
-    depends_on:
-      - server
 
 networks:
   blog-net:

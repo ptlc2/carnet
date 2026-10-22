@@ -1,6 +1,6 @@
 # Le carnet d'Antoine
 
-Blog statique généré par Hugo, servi par nginx, déployé en conteneur derrière un tunnel Cloudflare.
+Blog statique généré par Hugo, servi par nginx.
 
 ## Structure
 
@@ -15,6 +15,8 @@ Blog statique généré par Hugo, servi par nginx, déployé en conteneur derri�
 
 ## Déploiement
 
+`compose.yaml` monte l'application : service `server` (image `blog-antoine`, conteneur `blog-server`, alias réseau `server`, aucun port publié) sur le réseau `blog-net`.
+
     docker compose up -d --build
 
-Le stack monte `server` (image `blog-antoine`, conteneur `ouistiti-blog`, alias réseau `server`, aucun port publié) et `cloudflared` (conteneur `cloudflared-blog`) sur le réseau `blog-net`. Le token du tunnel vit dans `.env` (gitignoré) ; l'ingress du dashboard Cloudflare pointe vers `http://server:80`.
+En production, un `compose.override.yaml` (gitignoré) ajoute le service `tunnel` (conteneur `blog-tunnel`, Cloudflare), et le token vit dans `.env` (gitignoré). L'ingress du dashboard Cloudflare pointe vers `http://server:80`.
