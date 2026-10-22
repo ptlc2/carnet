@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" width="1200" height="760" role="img" aria-labelledby="ttl desc">
+  <title id="ttl">L'inflation baisse, les prix montent</title>
+  <desc id="desc">À gauche, l'inflation annuelle en France : 0,5 % en 2020, 1,6 % en 2021, 5,2 % en 2022, 4,9 % en 2023, 2,0 % en 2024, 0,9 % en 2025. À droite, l'indice des prix à la consommation base 100 en 2020, qui ne cesse de monter et atteint environ 115 fin 2025 : le rythme ralentit, mais le niveau ne redescend pas.</desc>
+
+  <rect width="1200" height="760" fill="#faf7f0"/>
+
+  <text x="600" y="58" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="36" fill="#26221c">L'inflation baisse, les prix montent</text>
+  <text x="600" y="98" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-style="italic" fill="#6f675c">Un rythme qui ralentit n'est pas un niveau qui recule.</text>
+  <line x1="600" y1="132" x2="600" y2="700" stroke="#ddd6c8" stroke-width="3"/>
+
+  <!-- ============ Panneau gauche : le rythme annuel ============ -->
+  <text x="330" y="176" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="23" fill="#26221c">Le rythme : +5,2 % puis +0,9 % par an</text>
+  <text x="150" y="212" font-family="Georgia, 'Times New Roman', serif" font-size="16" font-style="italic" fill="#6f675c">Inflation annuelle en France, en %</text>
+
+  <!-- grille -->
+  <g stroke="#ddd6c8" stroke-width="1.5" stroke-dasharray="4 6">
+    <line x1="140" y1="490" x2="546" y2="490"/>
+    <line x1="140" y1="380" x2="546" y2="380"/>
+    <line x1="140" y1="270" x2="546" y2="270"/>
+  </g>
+  <g font-family="Georgia, 'Times New Roman', serif" font-size="15" fill="#6f675c" text-anchor="end">
+    <text x="132" y="605">0</text>
+    <text x="132" y="495">2</text>
+    <text x="132" y="385">4</text>
+    <text x="132" y="275">6</text>
+  </g>
+
+  <!-- barres -->
+  <g>
+    <rect x="150" y="572.5" width="46" height="27.5" fill="#c9bfa8"/>
+    <rect x="218" y="512"   width="46" height="88"   fill="#c9bfa8"/>
+    <rect x="286" y="314"   width="46" height="286"  fill="#9c4a1e"/>
+    <rect x="354" y="330.5" width="46" height="269.5" fill="#9c4a1e"/>
+    <rect x="422" y="490"   width="46" height="110"  fill="#c9bfa8"/>
+    <rect x="490" y="550.5" width="46" height="49.5" fill="#c9bfa8"/>
+  </g>
+
+  <!-- valeurs -->
+  <g font-family="Georgia, 'Times New Roman', serif" font-size="16" fill="#26221c" text-anchor="middle">
+    <text x="173" y="563">0,5</text>
+    <text x="241" y="502">1,6</text>
+    <text x="309" y="304" fill="#9c4a1e" font-weight="bold">5,2</text>
+    <text x="377" y="320" fill="#9c4a1e" font-weight="bold">4,9</text>
+    <text x="445" y="480">2,0</text>
+    <text x="513" y="540">0,9</text>
+  </g>
+
+  <!-- axe -->
+  <line x1="140" y1="600" x2="546" y2="600" stroke="#26221c" stroke-width="2"/>
+  <g font-family="Georgia, 'Times New Roman', serif" font-size="16" fill="#6f675c" text-anchor="middle">
+    <text x="173" y="628">2020</text>
+    <text x="241" y="628">2021</text>
+    <text x="309" y="628">2022</text>
+    <text x="377" y="628">2023</text>
+    <text x="445" y="628">2024</text>
+    <text x="513" y="628">2025</text>
+  </g>
+  <text x="343" y="668" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="16" font-style="italic" fill="#6f675c">le pic est passé, la hausse continue</text>
+
+  <!-- ============ Panneau droit : le niveau des prix ============ -->
+  <text x="900" y="176" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="23" fill="#26221c">Le niveau : les prix ne redescendent pas</text>
+  <text x="700" y="212" font-family="Georgia, 'Times New Roman', serif" font-size="16" font-style="italic" fill="#6f675c">Indice des prix, base 100 en 2020</text>
+
+  <!-- grille -->
+  <g stroke="#ddd6c8" stroke-width="1.5" stroke-dasharray="4 6">
+    <line x1="690" y1="512.5" x2="1110" y2="512.5"/>
+    <line x1="690" y1="425"   x2="1110" y2="425"/>
+    <line x1="690" y1="337.5" x2="1110" y2="337.5"/>
+  </g>
+  <g font-family="Georgia, 'Times New Roman', serif" font-size="15" fill="#6f675c" text-anchor="end">
+    <text x="682" y="605">100</text>
+    <text x="682" y="518">105</text>
+    <text x="682" y="430">110</text>
+    <text x="682" y="343">115</text>
+  </g>
+
+  <!-- aire + courbe -->
+  <polygon points="710,600 710,600 786,572 862,479.25 938,388.25 1014,348 1090,330.5 1090,600"
+           fill="#9c4a1e" fill-opacity="0.08"/>
+  <polyline points="710,600 786,572 862,479.25 938,388.25 1014,348 1090,330.5"
+            fill="none" stroke="#9c4a1e" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <g fill="#9c4a1e">
+    <circle cx="710" cy="600" r="5"/>
+    <circle cx="786" cy="572" r="5"/>
+    <circle cx="862" cy="479.25" r="5"/>
+    <circle cx="938" cy="388.25" r="5"/>
+    <circle cx="1014" cy="348" r="5"/>
+    <circle cx="1090" cy="330.5" r="5"/>
+  </g>
+
+  <!-- annotation finale -->
+  <line x1="1090" y1="330.5" x2="1090" y2="600" stroke="#9c4a1e" stroke-width="1.5" stroke-dasharray="4 5"/>
+  <text x="1080" y="296" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-size="18" font-weight="bold" fill="#9c4a1e">≈ 115</text>
+  <text x="1080" y="318" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-size="15" fill="#6f675c">+15 % en cinq ans</text>
+
+  <!-- axe -->
+  <line x1="690" y1="600" x2="1110" y2="600" stroke="#26221c" stroke-width="2"/>
+  <g font-family="Georgia, 'Times New Roman', serif" font-size="16" fill="#6f675c" text-anchor="middle">
+    <text x="710" y="628">2020</text>
+    <text x="786" y="628">2021</text>
+    <text x="862" y="628">2022</text>
+    <text x="938" y="628">2023</text>
+    <text x="1014" y="628">2024</text>
+    <text x="1090" y="628">2025</text>
+  </g>
+  <text x="900" y="668" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="16" font-style="italic" fill="#6f675c">la pente s'adoucit, mais elle reste positive</text>
+</svg>
