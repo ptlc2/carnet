@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" width="1200" height="760" role="img" aria-labelledby="ttl desc">
+  <title id="ttl">Le deltoïde : trois faisceaux, un seul tendon</title>
+  <desc id="desc">Schéma vu de dos. Trois faisceaux du muscle deltoïde partent de la clavicule, de l'acromion et de l'épine de l'omoplate, et convergent vers un tendon unique sur la tubérosité deltoïdienne de l'humérus. Le faisceau postérieur (spinal), mis en évidence, est le plus petit : il porte le bras en arrière et le fait tourner vers l'extérieur.</desc>
+
+  <rect width="1200" height="760" fill="#faf7f0"/>
+
+  <text x="600" y="60" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="38" fill="#26221c">L'épaule : trois faisceaux, un seul tendon</text>
+  <text x="600" y="100" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-style="italic" fill="#6f675c">Le postérieur, le plus petit, travaille presque toujours en soutien.</text>
+  <line x1="120" y1="132" x2="1080" y2="132" stroke="#ddd6c8" stroke-width="2"/>
+
+  <!-- ================= Humérus ================= -->
+  <circle cx="912" cy="205" r="46" fill="#ece4d2" stroke="#b8ad95" stroke-width="3"/>
+  <rect x="882" y="205" width="60" height="430" rx="30" fill="#ece4d2" stroke="#b8ad95" stroke-width="3"/>
+  <text x="1000" y="212" font-family="Georgia, 'Times New Roman', serif" font-size="21" fill="#6f675c">Humérus</text>
+
+  <!-- ================= Faisceaux ================= -->
+  <!-- antérieur -->
+  <path d="M 210 236 Q 580 226 872 368" fill="none" stroke="#c9bfa8" stroke-width="30" stroke-linecap="round"/>
+  <!-- moyen -->
+  <path d="M 210 386 Q 580 386 872 381" fill="none" stroke="#b7a98c" stroke-width="30" stroke-linecap="round"/>
+  <!-- postérieur (mis en évidence) -->
+  <path d="M 210 536 Q 580 546 872 394" fill="none" stroke="#9c4a1e" stroke-width="40" stroke-linecap="round"/>
+
+  <!-- points d'origine -->
+  <circle cx="210" cy="236" r="11" fill="#c9bfa8"/>
+  <circle cx="210" cy="386" r="11" fill="#b7a98c"/>
+  <circle cx="210" cy="536" r="14" fill="#9c4a1e"/>
+
+  <!-- labels d'origine -->
+  <g font-family="Georgia, 'Times New Roman', serif" font-size="21" fill="#26221c" text-anchor="end">
+    <text x="180" y="232">Clavicule</text>
+    <text x="180" y="382">Acromion</text>
+    <text x="185" y="520" fill="#9c4a1e" font-weight="bold">Épine de</text>
+    <text x="185" y="545" fill="#9c4a1e" font-weight="bold">l'omoplate</text>
+  </g>
+
+  <!-- labels des faisceaux -->
+  <g font-family="Georgia, 'Times New Roman', serif" text-anchor="middle">
+    <text x="430" y="188" font-size="21" fill="#26221c">Faisceau antérieur</text>
+    <text x="430" y="212" font-size="15" font-style="italic" fill="#6f675c">fléchit le bras, rotation interne</text>
+
+    <text x="430" y="342" font-size="21" fill="#26221c">Faisceau moyen</text>
+    <text x="430" y="366" font-size="15" font-style="italic" fill="#6f675c">écarte le bras (abduction)</text>
+
+    <text x="430" y="598" font-size="22" fill="#9c4a1e" font-weight="bold">Faisceau postérieur</text>
+    <text x="430" y="622" font-size="15" font-style="italic" fill="#9c4a1e">porte le bras en arrière, rotation externe</text>
+  </g>
+
+  <!-- convergence / tendon -->
+  <circle cx="872" cy="382" r="9" fill="#26221c"/>
+  <text x="742" y="322" font-family="Georgia, 'Times New Roman', serif" font-size="18" font-style="italic" fill="#6f675c" text-anchor="end">tendon commun</text>
+  <line x1="748" y1="329" x2="862" y2="375" stroke="#6f675c" stroke-width="1.5"/>
+  <text x="1180" y="404" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-size="18" fill="#26221c">Tubérosité deltoïdienne</text>
+  <line x1="968" y1="400" x2="905" y2="386" stroke="#6f675c" stroke-width="1.5"/>
+
+  <!-- bandeau de conclusion -->
+  <line x1="120" y1="666" x2="1080" y2="666" stroke="#ddd6c8" stroke-width="2"/>
+  <text x="600" y="712" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#26221c">Un muscle qui ne fait que soutenir ne grossit pas : il faut aller le chercher, souvent seul.</text>
+</svg>
