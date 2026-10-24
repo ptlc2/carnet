@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 780" width="1200" height="780" role="img" aria-labelledby="ttl desc">
+  <title id="ttl">Deux réseaux pour envoyer des bitcoins</title>
+  <desc id="desc">À gauche, la chaîne : une file d'attente de transactions classées par frais, dont seules les plus offrantes entrent dans un bloc de taille fixe toutes les dix minutes. À droite, Lightning : un canal entre deux nœuds, ouvert une fois sur la chaîne, puis traversé de nombreux paiements instantanés avant d'être refermé.</desc>
+
+  <defs>
+    <marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#9c4a1e"/>
+    </marker>
+  </defs>
+
+  <rect width="1200" height="780" fill="#faf7f0"/>
+
+  <text x="600" y="58" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#26221c">Deux réseaux pour envoyer des bitcoins</text>
+  <text x="600" y="98" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-style="italic" fill="#6f675c">La chaîne règle, Lightning dépense.</text>
+
+  <line x1="60" y1="140" x2="1140" y2="140" stroke="#ddd6c8" stroke-width="2"/>
+  <line x1="600" y1="170" x2="600" y2="700" stroke="#ddd6c8" stroke-width="2"/>
+
+  <!-- ================= Panneau gauche : la chaîne ================= -->
+  <text x="320" y="200" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="28" font-weight="bold" fill="#26221c">La chaîne</text>
+  <text x="320" y="230" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-style="italic" fill="#6f675c">on paie la place, pas la somme</text>
+
+  <text x="100" y="280" font-family="Georgia, 'Times New Roman', serif" font-size="16" fill="#6f675c">file d'attente</text>
+  <text x="100" y="300" font-family="Georgia, 'Times New Roman', serif" font-size="16" fill="#6f675c">(mempool)</text>
+
+  <g font-family="'DejaVu Sans', sans-serif" font-size="15">
+    <rect x="100" y="318" width="150" height="28" rx="4" fill="#9c4a1e"/>
+    <text x="264" y="338" fill="#9c4a1e">400 sat/vB</text>
+    <rect x="100" y="352" width="150" height="28" rx="4" fill="#9c4a1e"/>
+    <text x="264" y="372" fill="#9c4a1e">150</text>
+    <rect x="100" y="386" width="150" height="28" rx="4" fill="#9c4a1e"/>
+    <text x="264" y="406" fill="#9c4a1e">80</text>
+    <rect x="100" y="420" width="150" height="28" rx="4" fill="#c9bfa8"/>
+    <text x="264" y="440" fill="#6f675c">30</text>
+    <rect x="100" y="454" width="150" height="28" rx="4" fill="#c9bfa8"/>
+    <text x="264" y="474" fill="#6f675c">12</text>
+    <rect x="100" y="488" width="150" height="28" rx="4" fill="#c9bfa8"/>
+    <text x="264" y="508" fill="#6f675c">5</text>
+  </g>
+
+  <line x1="390" y1="417" x2="430" y2="417" stroke="#9c4a1e" stroke-width="3" marker-end="url(#ar)"/>
+
+  <rect x="440" y="318" width="130" height="198" rx="8" fill="#faf7f0" stroke="#26221c" stroke-width="2.5"/>
+  <rect x="450" y="328" width="110" height="28" rx="4" fill="#9c4a1e"/>
+  <rect x="450" y="362" width="110" height="28" rx="4" fill="#9c4a1e"/>
+  <rect x="450" y="396" width="110" height="28" rx="4" fill="#9c4a1e"/>
+  <text x="505" y="300" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="16" fill="#26221c">un bloc</text>
+  <text x="505" y="538" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="15" fill="#6f675c">~1 Mo, toutes les ~10 min</text>
+
+  <text x="320" y="600" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="17" fill="#26221c">Les mineurs prennent d'abord</text>
+  <text x="320" y="624" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="17" fill="#26221c">ceux qui paient le plus.</text>
+  <text x="320" y="662" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="16" font-style="italic" fill="#9c4a1e">quelques transactions par seconde</text>
+
+  <!-- ================= Panneau droit : Lightning ================= -->
+  <text x="880" y="200" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="28" font-weight="bold" fill="#26221c">Lightning</text>
+  <text x="880" y="230" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-style="italic" fill="#6f675c">on ouvre une fois, puis on dépense</text>
+
+  <circle cx="740" cy="400" r="36" fill="#e8d9c6" stroke="#26221c" stroke-width="2.5"/>
+  <circle cx="1020" cy="400" r="36" fill="#e8d9c6" stroke="#26221c" stroke-width="2.5"/>
+  <text x="740" y="407" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#26221c">A</text>
+  <text x="1020" y="407" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#26221c">B</text>
+
+  <line x1="776" y1="400" x2="984" y2="400" stroke="#26221c" stroke-width="4"/>
+  <text x="880" y="392" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="16" font-style="italic" fill="#6f675c">canal de paiement</text>
+
+  <g stroke="#9c4a1e" stroke-width="3" marker-end="url(#ar)">
+    <line x1="790" y1="352" x2="870" y2="352"/>
+    <line x1="790" y1="330" x2="870" y2="330"/>
+    <line x1="970" y1="352" x2="890" y2="352"/>
+  </g>
+  <g stroke="#9c4a1e" stroke-width="3" marker-end="url(#ar)">
+    <line x1="790" y1="448" x2="870" y2="448"/>
+    <line x1="970" y1="448" x2="890" y2="448"/>
+    <line x1="970" y1="470" x2="890" y2="470"/>
+  </g>
+
+  <text x="880" y="322" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="14" fill="#6f675c">paiements hors chaîne</text>
+
+  <line x1="740" y1="436" x2="740" y2="486" stroke="#ddd6c8" stroke-width="2"/>
+  <line x1="1020" y1="436" x2="1020" y2="486" stroke="#ddd6c8" stroke-width="2"/>
+  <text x="740" y="506" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="14" fill="#6f675c">ouverture</text>
+  <text x="1020" y="506" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="14" fill="#6f675c">fermeture</text>
+  <text x="880" y="506" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="14" fill="#6f675c">sur la chaîne</text>
+
+  <text x="880" y="600" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="17" fill="#26221c">Seuls l'ouverture et la fermeture</text>
+  <text x="880" y="624" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="17" fill="#26221c">passent par la chaîne.</text>
+  <text x="880" y="662" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="16" font-style="italic" fill="#9c4a1e">instantané et quasi gratuit</text>
+</svg>
