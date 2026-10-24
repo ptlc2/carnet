@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 880" width="1200" height="880" role="img" aria-labelledby="ttl desc">
+  <title id="ttl">Même écrit, deux bouches</title>
+  <desc id="desc">Tableau comparatif de mots portugais écrits de la même façon mais prononcés différemment à Lisbonne et à São Paulo : Brasil, Lisboa, paz, presidente, tio. La colonne de gauche donne l'orthographe, les deux colonnes de droite donnent la prononciation en alphabet phonétique international, avec les sons divergents mis en évidence.</desc>
+
+  <rect width="1200" height="880" fill="#faf7f0"/>
+
+  <text x="600" y="66" text-anchor="middle" font-family="Georgia, 'DejaVu Serif', serif" font-size="38" fill="#26221c">Même écrit, deux bouches</text>
+  <text x="600" y="108" text-anchor="middle" font-family="Georgia, 'DejaVu Serif', serif" font-size="20" font-style="italic" fill="#6f675c">Le portugais se lit pareil à Lisbonne et à São Paulo. Il ne s'y entend pas de la même façon.</text>
+
+  <line x1="80" y1="150" x2="1120" y2="150" stroke="#ddd6c8" stroke-width="2"/>
+
+  <!-- En-têtes de colonnes -->
+  <g font-family="Georgia, 'DejaVu Serif', serif" font-size="21" fill="#6f675c">
+    <text x="120" y="196" text-anchor="start">Écrit</text>
+    <text x="560" y="196" text-anchor="middle">Portugal (Lisbonne)</text>
+    <text x="920" y="196" text-anchor="middle">Brésil (São Paulo)</text>
+  </g>
+  <line x1="80" y1="216" x2="1120" y2="216" stroke="#ddd6c8" stroke-width="2"/>
+
+  <!-- Lignes -->
+  <g font-family="Georgia, 'DejaVu Serif', serif" font-size="30" fill="#26221c">
+    <text x="120" y="290">Brasil</text>
+    <text x="120" y="384">Lisboa</text>
+    <text x="120" y="478">paz</text>
+    <text x="120" y="572">presidente</text>
+    <text x="120" y="666">tio</text>
+  </g>
+
+  <g font-family="'DejaVu Sans', sans-serif" font-size="30">
+    <text x="560" y="290" text-anchor="middle" fill="#9c4a1e">[bɾɐˈziɫ]</text>
+    <text x="920" y="290" text-anchor="middle" fill="#9c4a1e">[bɾaˈziw]</text>
+
+    <text x="560" y="384" text-anchor="middle" fill="#9c4a1e">[liʒˈboɐ]</text>
+    <text x="920" y="384" text-anchor="middle" fill="#9c4a1e">[lizˈboɐ]</text>
+
+    <text x="560" y="478" text-anchor="middle" fill="#9c4a1e">[paʃ]</text>
+    <text x="920" y="478" text-anchor="middle" fill="#9c4a1e">[pas]</text>
+
+    <text x="560" y="572" text-anchor="middle" fill="#9c4a1e">[pɾɨziˈðẽtɨ]</text>
+    <text x="920" y="572" text-anchor="middle" fill="#9c4a1e">[pɾeziˈdẽtʃi]</text>
+
+    <text x="560" y="666" text-anchor="middle" fill="#9c4a1e">[ˈtiu]</text>
+    <text x="920" y="666" text-anchor="middle" fill="#9c4a1e">[ˈtʃiu]</text>
+  </g>
+
+  <g stroke="#e6e0d3" stroke-width="1.5">
+    <line x1="80" y1="330" x2="1120" y2="330"/>
+    <line x1="80" y1="424" x2="1120" y2="424"/>
+    <line x1="80" y1="518" x2="1120" y2="518"/>
+    <line x1="80" y1="612" x2="1120" y2="612"/>
+  </g>
+
+  <line x1="80" y1="712" x2="1120" y2="712" stroke="#ddd6c8" stroke-width="2"/>
+
+  <!-- Légende -->
+  <g font-family="Georgia, 'DejaVu Serif', serif" font-size="19" fill="#26221c">
+    <text x="120" y="760">l final devient w</text>
+    <text x="120" y="796">s de fin de syllabe devient ch</text>
+    <text x="120" y="832">e atone devient eu, ti devient tchi</text>
+  </g>
+  <g font-family="'DejaVu Sans', sans-serif" font-size="19" fill="#9c4a1e" text-anchor="end">
+    <text x="1080" y="760">Brasil : ziɫ → ziw</text>
+    <text x="1080" y="796">paz : paʃ → pas</text>
+    <text x="1080" y="832">presidente, tio</text>
+  </g>
+</svg>
