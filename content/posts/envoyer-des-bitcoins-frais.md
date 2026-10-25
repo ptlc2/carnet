@@ -1,7 +1,6 @@
 ---
 title: "Envoyer des bitcoins : on paie la place, pas la somme"
 date: 2026-10-25
-draft: true
 tags: ["technique", "internet"]
 summary: "Un virement bancaire coûte à peu près pareil quel que soit le montant. Le bitcoin, non : y envoyer de l'argent revient à se disputer une place rare, payée au plus offrant, justement quand tout le monde en veut en même temps. D'où deux réseaux superposés, la chaîne et Lightning."
 ---
