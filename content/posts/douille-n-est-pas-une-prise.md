@@ -1,0 +1,25 @@
+---
+title: "La douille n'est pas une prise"
+date: 2026-10-26
+draft: true
+tags: ["technique", "quotidien"]
+summary: "Une douille de lampe ressemble à une prise tournée sur le côté, et un petit adaptateur permet d'y brancher n'importe quoi. Le courant passe, mais la douille n'a jamais été prévue pour ça : sa limite est écrite en tout petit, et rien ne vous avertit quand vous la dépassez."
+---
+
+Au plafond ou sur un mur, une douille de lampe et une prise de courant se ressemblent. Un culot vissé d'un côté, deux trous de l'autre. On trouve même, pour quelques euros, un [adaptateur](https://www.legrand.fr/catalogue/rallonges-multiprises-enrouleurs-et-accessoires/adaptateur) qui se visse dans la douille et transforme celle-ci en prise : de quoi brancher une guirlande, un chargeur, une lampe d'appoint. Le courant passe, tout fonctionne, et c'est justement là que le piège se referme.
+
+Car une douille n'est pas une prise. Les deux objets obéissent à des normes différentes, prévus pour des usages différents, et l'adaptateur ne change rien à l'affaire : il relie deux mondes que la réglementation tient soigneusement séparés.
+
+Commençons par le culot. Les ampoules à vis portent un code d'une ou deux lettres suivi d'un nombre, qui donne le diamètre en millimètres. Le `E` vient d'Edison, dont le [culot à vis](https://fr.wikipedia.org/wiki/Support_des_lampes_%C3%A9lectriques) a été normalisé au début du XXe siècle. En Europe, l'ampoule ordinaire est en `E27`, un pas de vis de 27 millimètres ; les petites lampes à bougies ou de guirlande sont en `E14`, 14 millimètres. Aux États-Unis, la taille standard est `E26`, un millimètre de moins, ce qui suffit à rendre les ampoules à peu près incompatibles d'un continent à l'autre. Ce standard est si commode qu'une ampoule achetée n'importe où se visse dans n'importe quelle douille du même type.
+
+Mais la douille n'est pas neutre. C'est un support d'éclairage, et elle porte une [puissance maximale](https://fr.wikipedia.org/wiki/Lampe_%C3%A0_incandescence) gravée dessus, souvent 40 ou 60 watts. Cette limite n'a rien à voir avec le courant qui traverse le fil : elle vient de la chaleur. Une ampoule à incandescence transforme presque toute l'énergie en chaleur, et le filament chauffe le culot, puis la douille. Un plastique ou un contact prévu pour 60 watts souffre si on lui en demande 200. La douille est donc dimensionnée pour une ampoule, c'est-à-dire pour quelques dixièmes d'ampère.
+
+{{< figure src="/images/douille-pas-prise.png" alt="À gauche, une douille de lampe avec une ampoule de 60 watts : elle est gravée 60 W max et laisse passer environ 0,26 ampère. À droite, la même douille équipée d'un adaptateur prise alimentant un appareil de 2 000 watts : le courant est d'environ 8,7 ampères, soit une trentaine de fois plus, alors que la douille est toujours marquée 60 W." caption="Le même objet, deux courants. Une ampoule de 60 W demande environ 0,26 A. Un appareil de 2 000 W branché via un adaptateur en demande près de 8,7 A, sans que rien dans la douille n'ait changé." >}}
+
+Faisons le calcul. Sous une tension de 230 volts, une ampoule de 60 watts appelle une intensité de 0,26 ampère environ. Un appareil de 2 000 watts, lui, en réclame près de 8,7 ampères, soit une trentaine de fois plus. Les contacts d'une douille, fins, et l'isolant qui la traverse ne sont pas faits pour cela. Ils chauffent, noircissent, et finissent par créer ce qu'on appelle un [défaut d'arc](https://www.legrand.fr/actualites/defauts-darc-proteger-son-installation-electrique) : un arc électrique entre deux conducteurs mal tenus, l'une des causes fréquentes d'incendie d'origine électrique.
+
+On pourrait croire que le [disjoncteur](https://fr.wikipedia.org/wiki/NF_C_15-100) veille. Il protège le circuit, pas l'objet au bout. Un circuit d'éclairage est en général protégé à 16 ampères, ce qui représente tout de même 3 680 watts sous 230 volts. Autrement dit, un appareil de 2 000 watts branché sur une douille ne fera pas déclencher le disjoncteur : le courant reste sous le seuil, alors qu'il est déjà trente fois trop élevé pour la douille. La protection coupe avant que le fil ne fonde, pas avant que la douille ne souffre.
+
+La norme, elle, distingue précisément les deux fonctions. Un point d'éclairage et un circuit de prises ne suivent pas les mêmes règles : nombre de points, section des conducteurs, calibre du disjoncteur, tout diffère. La prise est faite pour recevoir des appareils variés, avec un circuit pensé pour cela ; la douille est faite pour éclairer, sur un circuit léger. L'adaptateur fait tenir une fiche dans une douille, mais il ne transforme pas le circuit.
+
+La leçon est simple, et un peu contrariante. Ce n'est pas la forme de la prise qui dit ce qu'on peut y brancher, c'est la puissance pour laquelle elle a été prévue. La douille porte sa limite en petits caractères, et rien ne vous arrête quand vous la dépassez : la fiche entre, le contact se fait, l'appareil démarre. Un objet conçu pour une ampoule se retrouve à faire le travail d'une prise, et c'est la chaleur, silencieusement, qui présente la facture.
