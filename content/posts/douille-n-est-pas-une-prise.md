@@ -1,7 +1,6 @@
 ---
 title: "La douille n'est pas une prise"
 date: 2026-10-26
-draft: true
 tags: ["technique", "quotidien"]
 summary: "Une douille de lampe ressemble à une prise tournée sur le côté, et un petit adaptateur permet d'y brancher n'importe quoi. Le courant passe, mais la douille n'a jamais été prévue pour ça : sa limite est écrite en tout petit, et rien ne vous avertit quand vous la dépassez."
 ---
