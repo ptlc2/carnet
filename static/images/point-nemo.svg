@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" width="1200" height="700" role="img" aria-labelledby="ttl desc">
+  <title id="ttl">Le point le plus seul du monde</title>
+  <desc id="desc">Carte schématique du Pacifique sud. Au centre, le point Némo, marqué d'une croix, entouré d'un grand cercle en pointillé. Trois masses terrestres sont posées sur ce cercle : l'île Ducie au nord-ouest, Motu Nui au nord-est, l'île Maher au sud, chacune à 2 688 kilomètres du centre. De petits engins spatiaux suivent des trajectoires en pointillé vers le centre, matérialisant le cimetière des engins spatiaux. Un point isolé près du bord supérieur figure la Station spatiale internationale.</desc>
+
+  <rect width="1200" height="700" fill="#faf7f0"/>
+
+  <text x="600" y="58" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#26221c">Le point le plus seul du monde</text>
+  <text x="600" y="98" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-style="italic" fill="#6f675c">Point Némo, Pacifique sud : à 2 688 km de toute terre</text>
+
+  <line x1="60" y1="140" x2="1140" y2="140" stroke="#ddd6c8" stroke-width="2"/>
+
+  <!-- ================= Océan ================= -->
+  <rect x="40" y="150" width="1120" height="500" rx="16" fill="#cfdde0" stroke="#26221c" stroke-width="2"/>
+  <g stroke="#b9ccd1" stroke-width="1.5" opacity="0.9">
+    <line x1="40" y1="275" x2="1160" y2="275"/>
+    <line x1="40" y1="400" x2="1160" y2="400"/>
+    <line x1="40" y1="525" x2="1160" y2="525"/>
+    <line x1="320" y1="150" x2="320" y2="650"/>
+    <line x1="600" y1="150" x2="600" y2="650"/>
+    <line x1="880" y1="150" x2="880" y2="650"/>
+  </g>
+
+  <!-- ================= Cercle des 2 688 km ================= -->
+  <circle cx="600" cy="400" r="235" fill="none" stroke="#9c4a1e" stroke-width="2.5" stroke-dasharray="9 9" opacity="0.85"/>
+
+  <!-- ================= Rayons ================= -->
+  <g stroke="#26221c" stroke-width="1.6" opacity="0.55">
+    <line x1="600" y1="400" x2="434" y2="234"/>
+    <line x1="600" y1="400" x2="766" y2="234"/>
+    <line x1="600" y1="400" x2="600" y2="635"/>
+  </g>
+
+  <!-- ================= Terres ================= -->
+  <g fill="#c9bfa8" stroke="#26221c" stroke-width="2.5">
+    <ellipse cx="434" cy="234" rx="46" ry="28"/>
+    <ellipse cx="766" cy="234" rx="40" ry="30"/>
+    <ellipse cx="600" cy="635" rx="60" ry="26"/>
+  </g>
+  <text x="434" y="188" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="17" fill="#26221c">île Ducie</text>
+  <text x="434" y="207" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#6f675c">Pitcairn</text>
+  <text x="766" y="184" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="17" fill="#26221c">Motu Nui</text>
+  <text x="766" y="203" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#6f675c">île de Pâques</text>
+  <text x="672" y="640" text-anchor="start" font-family="Georgia, 'Times New Roman', serif" font-size="17" fill="#26221c">île Maher</text>
+  <text x="672" y="659" text-anchor="start" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#6f675c">Antarctique</text>
+
+  <!-- Étiquettes des distances -->
+  <text x="505" y="313" text-anchor="end" font-family="'DejaVu Sans', sans-serif" font-size="15" fill="#9c4a1e">2 688 km</text>
+  <text x="695" y="313" text-anchor="start" font-family="'DejaVu Sans', sans-serif" font-size="15" fill="#9c4a1e">2 688 km</text>
+  <text x="614" y="525" text-anchor="start" font-family="'DejaVu Sans', sans-serif" font-size="15" fill="#9c4a1e">2 688 km</text>
+
+  <!-- ================= Point Némo ================= -->
+  <circle cx="600" cy="400" r="7" fill="#9c4a1e"/>
+  <g stroke="#9c4a1e" stroke-width="2">
+    <line x1="588" y1="400" x2="612" y2="400"/>
+    <line x1="600" y1="388" x2="600" y2="412"/>
+  </g>
+  <text x="600" y="372" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-weight="bold" fill="#9c4a1e">Point Némo</text>
+  <text x="600" y="436" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#6f675c">48°52′ S · 123°23′ O</text>
+
+  <!-- ================= Station spatiale ================= -->
+  <circle cx="600" cy="182" r="5" fill="#26221c"/>
+  <g stroke="#26221c" stroke-width="1.6">
+    <line x1="584" y1="182" x2="616" y2="182"/>
+  </g>
+  <rect x="560" y="178" width="18" height="8" fill="#26221c"/>
+  <rect x="622" y="178" width="18" height="8" fill="#26221c"/>
+  <text x="600" y="210" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#26221c">Station spatiale (400 km)</text>
+
+  <!-- ================= Engins spatiaux ================= -->
+  <g stroke="#9c4a1e" stroke-width="2" stroke-dasharray="7 7" fill="none" opacity="0.8">
+    <path d="M250 470 Q 420 440 588 404"/>
+    <path d="M960 520 Q 800 470 616 410"/>
+  </g>
+  <!-- engin de gauche -->
+  <g transform="translate(250,470) rotate(-15)">
+    <rect x="-16" y="-9" width="32" height="18" rx="3" fill="#26221c"/>
+    <rect x="-44" y="-7" width="26" height="14" fill="#9c4a1e"/>
+    <rect x="18" y="-7" width="26" height="14" fill="#9c4a1e"/>
+  </g>
+  <!-- engin de droite -->
+  <g transform="translate(960,520) rotate(20)">
+    <rect x="-16" y="-9" width="32" height="18" rx="3" fill="#26221c"/>
+    <rect x="-44" y="-7" width="26" height="14" fill="#9c4a1e"/>
+    <rect x="18" y="-7" width="26" height="14" fill="#9c4a1e"/>
+  </g>
+
+  <text x="150" y="612" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="18" font-style="italic" fill="#9c4a1e">cimetière des engins spatiaux</text>
+  <text x="150" y="634" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="12" fill="#6f675c">plus de 260 engins déposés entre 1971 et 2016</text>
+
+  <!-- rose des vents -->
+  <g transform="translate(1090,205)" stroke="#26221c" fill="#26221c">
+    <line x1="0" y1="24" x2="0" y2="-18" stroke-width="2"/>
+    <path d="M0 -26 L -8 -8 L 8 -8 Z"/>
+    <text x="0" y="42" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="15" stroke="none">N</text>
+  </g>
+</svg>
