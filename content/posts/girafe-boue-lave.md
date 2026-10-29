@@ -1,7 +1,6 @@
 ---
 title: "Pourquoi la girafe, la boue et la lave se ressemblent"
 date: 2026-10-27
-draft: true
 tags: ["sciences", "nature"]
 summary: "Le pelage d'une girafe, la vase craquelée d'un lac à sec et une coulée de lave refroidie n'ont rien en commun, sinon le même dessin : un partage de terrain où chacun prend la part la plus proche de lui, ce que les mathématiciens appellent un diagramme de Voronoï."
 ---

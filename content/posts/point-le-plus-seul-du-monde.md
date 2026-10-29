@@ -1,7 +1,6 @@
 ---
 title: "Le point le plus seul du monde"
 date: 2026-10-28
-draft: true
 tags: ["géographie", "océan"]
 summary: "Au milieu du Pacifique sud, un point de l'océan est plus loin de toute terre que n'importe quel autre endroit du globe. On l'appelle le point Némo, et les astronautes de la Station spatiale en sont parfois les plus proches voisins."
 ---
