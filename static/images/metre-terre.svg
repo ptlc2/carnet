@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" width="1200" height="760" role="img" aria-labelledby="ttl desc">
+  <title id="ttl">Le mètre ne mesure plus la Terre</title>
+  <desc id="desc">À gauche, un quart de méridien terrestre allant du pôle Nord à l'équateur, avec le méridien de Paris et le segment mesuré entre Dunkerque et Barcelone mis en évidence. Un cercle grossissant montre la chaîne de triangles de la triangulation. À droite, l'annotation indique que la mesure s'est révélée fausse de deux dixièmes de millimètre. En bas, une frise rappelle les quatre définitions successives du mètre : 1799 barre de platine, 1889 prototype platine-iridium, 1960 longueurs d'onde du krypton-86, 1983 vitesse de la lumière.</desc>
+
+  <rect width="1200" height="760" fill="#faf7f0"/>
+
+  <text x="600" y="56" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#26221c">Le mètre ne mesure plus la Terre</text>
+  <text x="600" y="96" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-style="italic" fill="#6f675c">Défini par une mesure du globe, il repose aujourd'hui sur la vitesse de la lumière</text>
+
+  <line x1="60" y1="130" x2="1140" y2="130" stroke="#ddd6c8" stroke-width="2"/>
+
+  <!-- ================= Quart de méridien ================= -->
+  <g>
+    <!-- rayon vers le pôle et vers l'équateur -->
+    <line x1="200" y1="470" x2="200" y2="180" stroke="#ddd6c8" stroke-width="2"/>
+    <line x1="200" y1="470" x2="490" y2="470" stroke="#ddd6c8" stroke-width="2"/>
+    <circle cx="200" cy="470" r="4" fill="#b9b0a0"/>
+
+    <!-- arc du méridien -->
+    <path d="M 200 180 A 290 290 0 0 1 490 470" fill="none" stroke="#26221c" stroke-width="3"/>
+
+    <!-- segment mesuré Dunkerque - Barcelone -->
+    <path d="M 382 245 A 290 290 0 0 1 418 278" fill="none" stroke="#9c4a1e" stroke-width="8" stroke-linecap="round"/>
+
+    <!-- points -->
+    <circle cx="200" cy="180" r="6" fill="#26221c"/>
+    <circle cx="490" cy="470" r="6" fill="#26221c"/>
+
+    <!-- labels -->
+    <text x="200" y="162" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="17" fill="#26221c">pôle Nord</text>
+    <text x="502" y="476" font-family="Georgia, 'Times New Roman', serif" font-size="17" fill="#26221c">équateur</text>
+    <text x="250" y="360" font-family="'DejaVu Sans', sans-serif" font-size="13.5" fill="#5c767c">quart du méridien</text>
+    <text x="250" y="378" font-family="'DejaVu Sans', sans-serif" font-size="13.5" fill="#5c767c">de Paris · 90°</text>
+  </g>
+
+  <!-- leader vers la loupe -->
+  <line x1="410" y1="266" x2="700" y2="250" stroke="#9c4a1e" stroke-width="1.6" stroke-dasharray="6 5"/>
+
+  <!-- ================= Loupe : triangulation ================= -->
+  <circle cx="880" cy="300" r="140" fill="#f2ede0" stroke="#26221c" stroke-width="3"/>
+  <text x="880" y="151" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13.5" fill="#6f675c">le segment mesuré, grossi</text>
+
+  <!-- chaîne de triangles de triangulation -->
+  <g fill="none" stroke="#7f9aa0" stroke-width="1.6">
+    <path d="M 790 350 L 850 290 L 900 360 Z"/>
+    <path d="M 850 290 L 920 260 L 900 360 Z"/>
+    <path d="M 900 360 L 960 300 L 985 380 Z"/>
+    <path d="M 920 260 L 960 300 L 900 360 Z"/>
+  </g>
+  <!-- sommets -->
+  <g fill="#26221c">
+    <circle cx="790" cy="350" r="4"/>
+    <circle cx="850" cy="290" r="4"/>
+    <circle cx="900" cy="360" r="4"/>
+    <circle cx="920" cy="260" r="4"/>
+    <circle cx="960" cy="300" r="4"/>
+    <circle cx="985" cy="380" r="4"/>
+  </g>
+  <!-- les deux villes -->
+  <circle cx="790" cy="350" r="7" fill="#9c4a1e"/>
+  <circle cx="985" cy="380" r="7" fill="#9c4a1e"/>
+  <text x="786" y="392" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#9c4a1e">Dunkerque</text>
+  <text x="990" y="404" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#9c4a1e">Barcelone</text>
+  <text x="880" y="322" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#5c767c">triangulation</text>
+
+  <!-- ================= L'erreur ================= -->
+  <text x="880" y="486" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="19" fill="#26221c">Mesure achevée en 1799</text>
+  <text x="880" y="516" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="19" fill="#9c4a1e">trop courte de 0,2 mm</text>
+
+  <!-- ================= Frise des définitions ================= -->
+  <line x1="60" y1="588" x2="1140" y2="588" stroke="#ddd6c8" stroke-width="2"/>
+  <line x1="180" y1="588" x2="1020" y2="588" stroke="#26221c" stroke-width="3"/>
+
+  <g font-family="'DejaVu Sans', sans-serif" text-anchor="middle">
+    <!-- 1799 -->
+    <circle cx="180" cy="588" r="8" fill="#9c4a1e"/>
+    <text x="180" y="562" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#26221c">1799</text>
+    <text x="180" y="620" font-size="13.5" fill="#6f675c">barre de platine</text>
+    <text x="180" y="639" font-size="13.5" fill="#6f675c">(mètre des Archives)</text>
+
+    <!-- 1889 -->
+    <circle cx="460" cy="588" r="8" fill="#26221c"/>
+    <text x="460" y="562" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#26221c">1889</text>
+    <text x="460" y="620" font-size="13.5" fill="#6f675c">prototype</text>
+    <text x="460" y="639" font-size="13.5" fill="#6f675c">platine-iridium</text>
+
+    <!-- 1960 -->
+    <circle cx="740" cy="588" r="8" fill="#26221c"/>
+    <text x="740" y="562" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#26221c">1960</text>
+    <text x="740" y="620" font-size="13.5" fill="#6f675c">1 650 763,73 longueurs</text>
+    <text x="740" y="639" font-size="13.5" fill="#6f675c">d'onde du krypton-86</text>
+
+    <!-- 1983 -->
+    <circle cx="1020" cy="588" r="8" fill="#9c4a1e"/>
+    <text x="1020" y="562" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#26221c">1983</text>
+    <text x="1020" y="620" font-size="13.5" fill="#6f675c">1/299 792 458 de</text>
+    <text x="1020" y="639" font-size="13.5" fill="#6f675c">seconde de lumière</text>
+  </g>
+
+  <!-- bandeau bas -->
+  <text x="600" y="700" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13.5" fill="#5c767c">Quatre bases successives, un seul mètre : on a changé la définition plutôt que de corriger l'étalon</text>
+  <text x="600" y="724" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="14" font-style="italic" fill="#6f675c">Aujourd'hui, le mètre vaut 1/299 792 458 de la distance parcourue par la lumière en une seconde</text>
+</svg>
