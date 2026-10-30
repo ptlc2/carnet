@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" width="1200" height="760" role="img" aria-labelledby="ttl desc">
+  <title id="ttl">L'origine du mot OK</title>
+  <desc id="desc">En haut, la filiation du mot : « all correct », puis la faute volontaire « oll korrect », puis l'abréviation « o.k. » du Boston Morning Post en 1839, puis « OK » popularisé en 1840 par les partisans de Martin Van Buren, surnommé Old Kinderhook. Au milieu, quatre théories rivales souvent racontées : le choctaw « okeh », le « 0 killed » militaire, le grec « ola kala » et le français « au quai ! ». En bas, une frise rappelle quatre dates : 1839, 1840, 1918 et 1963.</desc>
+
+  <rect width="1200" height="760" fill="#faf7f0"/>
+
+  <text x="600" y="54" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#26221c">D'où vient le mot « OK »</text>
+  <text x="600" y="92" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="19" font-style="italic" fill="#6f675c">Le mot le plus dit du monde est né d'une faute d'orthographe volontaire</text>
+
+  <line x1="60" y1="122" x2="1140" y2="122" stroke="#ddd6c8" stroke-width="2"/>
+
+  <!-- ================= Filiation ================= -->
+  <text x="60" y="164" font-family="'DejaVu Sans', sans-serif" font-size="13.5" fill="#5c767c">LA FILIATION</text>
+
+  <!-- boîte 1 -->
+  <rect x="60" y="184" width="220" height="128" rx="8" fill="#f2ede0" stroke="#ddd6c8" stroke-width="2"/>
+  <text x="170" y="232" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="24" fill="#26221c">all correct</text>
+  <text x="170" y="262" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#6f675c">l'anglais correct :</text>
+  <text x="170" y="280" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#6f675c">« tout est bon »</text>
+
+  <!-- flèche 1 -->
+  <line x1="286" y1="248" x2="338" y2="248" stroke="#9c4a1e" stroke-width="2.5"/>
+  <polygon points="350,248 336,242 336,254" fill="#9c4a1e"/>
+
+  <!-- boîte 2 -->
+  <rect x="356" y="184" width="220" height="128" rx="8" fill="#f2ede0" stroke="#ddd6c8" stroke-width="2"/>
+  <text x="466" y="232" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="24" fill="#26221c">oll korrect</text>
+  <text x="466" y="262" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#6f675c">la blague : on écrit</text>
+  <text x="466" y="280" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#6f675c">comme on parle mal</text>
+
+  <!-- flèche 2 -->
+  <line x1="582" y1="248" x2="634" y2="248" stroke="#9c4a1e" stroke-width="2.5"/>
+  <polygon points="646,248 632,242 632,254" fill="#9c4a1e"/>
+
+  <!-- boîte 3 -->
+  <rect x="652" y="184" width="220" height="128" rx="8" fill="#f2ede0" stroke="#ddd6c8" stroke-width="2"/>
+  <text x="762" y="230" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#26221c">o.k.</text>
+  <text x="762" y="262" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#6f675c">première trace écrite :</text>
+  <text x="762" y="280" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#6f675c">Boston, 23 mars 1839</text>
+
+  <!-- flèche 3 -->
+  <line x1="878" y1="248" x2="930" y2="248" stroke="#9c4a1e" stroke-width="2.5"/>
+  <polygon points="942,248 928,242 928,254" fill="#9c4a1e"/>
+
+  <!-- boîte 4 -->
+  <rect x="948" y="184" width="192" height="128" rx="8" fill="#9c4a1e"/>
+  <text x="1044" y="240" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="46" font-weight="bold" fill="#faf7f0">OK</text>
+  <text x="1044" y="272" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#f4e6da">1840 : « Old Kinderhook »,</text>
+  <text x="1044" y="290" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#f4e6da">surnom de Van Buren</text>
+
+  <!-- ================= Théories rivales ================= -->
+  <text x="60" y="372" font-family="'DejaVu Sans', sans-serif" font-size="13.5" fill="#5c767c">LES THÉORIES RIVALES, SOUVENT RACONTÉES</text>
+
+  <!-- carte 1 -->
+  <rect x="60" y="392" width="250" height="150" rx="8" fill="#f2ede0" stroke="#ddd6c8" stroke-width="2"/>
+  <text x="80" y="428" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#26221c">okeh</text>
+  <text x="80" y="454" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#6f675c">choctaw, « il en est</text>
+  <text x="80" y="472" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#6f675c">ainsi » ; attesté dès 1825</text>
+  <text x="80" y="500" font-family="'DejaVu Sans', sans-serif" font-size="12.5" fill="#5c767c">retenu par les dictionnaires</text>
+  <text x="80" y="518" font-family="'DejaVu Sans', sans-serif" font-size="12.5" fill="#5c767c">américains jusqu'en 1961</text>
+
+  <!-- carte 2 -->
+  <rect x="350" y="392" width="250" height="150" rx="8" fill="#f2ede0" stroke="#ddd6c8" stroke-width="2"/>
+  <text x="370" y="428" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#26221c">0 killed</text>
+  <text x="370" y="454" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#6f675c">« aucun mort » après</text>
+  <text x="370" y="472" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#6f675c">la bataille ; le zéro lu « O »</text>
+  <text x="370" y="500" font-family="'DejaVu Sans', sans-serif" font-size="12.5" fill="#5c767c">légende urbaine : aucune</text>
+  <text x="370" y="518" font-family="'DejaVu Sans', sans-serif" font-size="12.5" fill="#5c767c">source d'époque</text>
+
+  <!-- carte 3 -->
+  <rect x="640" y="392" width="250" height="150" rx="8" fill="#f2ede0" stroke="#ddd6c8" stroke-width="2"/>
+  <text x="660" y="428" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#26221c">ola kala</text>
+  <text x="660" y="454" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#6f675c">grec « tout va bien »,</text>
+  <text x="660" y="472" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#6f675c">sur les rails posés aux États-Unis</text>
+  <text x="660" y="500" font-family="'DejaVu Sans', sans-serif" font-size="12.5" fill="#5c767c">ressemblance de son,</text>
+  <text x="660" y="518" font-family="'DejaVu Sans', sans-serif" font-size="12.5" fill="#5c767c">pas de filiation</text>
+
+  <!-- carte 4 -->
+  <rect x="930" y="392" width="250" height="150" rx="8" fill="#f2ede0" stroke="#ddd6c8" stroke-width="2"/>
+  <text x="950" y="428" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#26221c">au quai !</text>
+  <text x="950" y="454" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#6f675c">Louisiane : ballots de</text>
+  <text x="950" y="472" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#6f675c">coton jugés bons, à embarquer</text>
+  <text x="950" y="500" font-family="'DejaVu Sans', sans-serif" font-size="12.5" fill="#5c767c">séduisant, mais rien</text>
+  <text x="950" y="518" font-family="'DejaVu Sans', sans-serif" font-size="12.5" fill="#5c767c">ne l'atteste</text>
+
+  <!-- ================= Frise ================= -->
+  <line x1="60" y1="616" x2="1140" y2="616" stroke="#ddd6c8" stroke-width="2"/>
+  <line x1="180" y1="686" x2="1020" y2="686" stroke="#26221c" stroke-width="3"/>
+
+  <g font-family="'DejaVu Sans', sans-serif" text-anchor="middle">
+    <circle cx="180" cy="686" r="8" fill="#9c4a1e"/>
+    <text x="180" y="662" font-family="Georgia, 'Times New Roman', serif" font-size="19" fill="#26221c">1839</text>
+    <text x="180" y="716" font-size="13" fill="#6f675c">première trace</text>
+    <text x="180" y="734" font-size="13" fill="#6f675c">écrite, à Boston</text>
+
+    <circle cx="460" cy="686" r="8" fill="#26221c"/>
+    <text x="460" y="662" font-family="Georgia, 'Times New Roman', serif" font-size="19" fill="#26221c">1840</text>
+    <text x="460" y="716" font-size="13" fill="#6f675c">campagne de</text>
+    <text x="460" y="734" font-size="13" fill="#6f675c">Van Buren</text>
+
+    <circle cx="740" cy="686" r="8" fill="#26221c"/>
+    <text x="740" y="662" font-family="Georgia, 'Times New Roman', serif" font-size="19" fill="#26221c">1918</text>
+    <text x="740" y="716" font-size="13" fill="#6f675c">Wilson écrit</text>
+    <text x="740" y="734" font-size="13" fill="#6f675c">« okeh »</text>
+
+    <circle cx="1020" cy="686" r="8" fill="#9c4a1e"/>
+    <text x="1020" y="662" font-family="Georgia, 'Times New Roman', serif" font-size="19" fill="#26221c">1963</text>
+    <text x="1020" y="716" font-size="13" fill="#6f675c">A. W. Read</text>
+    <text x="1020" y="734" font-size="13" fill="#6f675c">tranche le débat</text>
+  </g>
+</svg>
