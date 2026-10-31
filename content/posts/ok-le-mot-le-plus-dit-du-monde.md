@@ -3,7 +3,6 @@ title: "Le mot le plus dit du monde est une faute d'orthographe"
 date: 2026-10-31
 tags: ["langue", "histoire"]
 summary: "OK serait le mot le plus prononcé de la planète. Il est né en 1839 d'une blague de journal : abréger « all correct » en « oll korrect », avec une faute volontaire. Une élection présidentielle américaine a fait le reste."
-draft: true
 ---
 
 Le mot le plus souvent prononcé ou écrit sur la planète n'est ni « oui », ni « merci », ni le mot de salutation d'aucune langue. Ce serait [OK](https://fr.wikipedia.org/wiki/OK_(expression)). On le trouve sur le bouton d'une télécommande, au coin d'un message, dans une conversation à Tokyo comme à Moscou, souvent sans même que celui qui l'emploie sache qu'il vient d'ailleurs. En France, il était rarissime avant la Seconde Guerre mondiale. Aujourd'hui, il est partout, et il se prononce pareil à peu près partout.
