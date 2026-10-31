@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" width="1200" height="760" role="img" aria-labelledby="ttl desc">
+  <title id="ttl">La synesthésie : les lettres en couleurs et l'effet bouba-kiki</title>
+  <desc id="desc">En haut à gauche, le mot « synesthésie » dont chaque lettre est teintée d'une couleur différente : c'est la synesthésie graphèmes-couleurs, la plus répandue. En haut à droite, deux formes face à des mots inventés : une forme ronde pour « bouba » et une forme pointue pour « kiki », un effet partagé par presque tout le monde. En bas, une frise de dates : 1812, 1880, les années 1930, les années 1980 et 2001.</desc>
+
+  <rect width="1200" height="760" fill="#faf7f0"/>
+
+  <text x="600" y="54" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#26221c">Quand les sens se répondent</text>
+  <text x="600" y="92" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="19" font-style="italic" fill="#6f675c">Les lettres ont une couleur, et presque tout le monde trouve « kiki » pointu</text>
+
+  <line x1="60" y1="122" x2="1140" y2="122" stroke="#ddd6c8" stroke-width="2"/>
+
+  <!-- ================= Panneau 1 : graphèmes -> couleurs ================= -->
+  <text x="60" y="162" font-family="'DejaVu Sans', sans-serif" font-size="13.5" fill="#5c767c">GRAPHÈMES → COULEURS, LA PLUS RÉPANDUE</text>
+
+  <rect x="60" y="182" width="510" height="300" rx="8" fill="#f2ede0" stroke="#ddd6c8" stroke-width="2"/>
+
+  <!-- le mot, une couleur par lettre -->
+  <g font-family="Georgia, 'Times New Roman', serif" font-size="52" font-weight="bold">
+    <text x="118" y="330" fill="#b0322b">s</text>
+    <text x="160" y="330" fill="#2f6fb0">y</text>
+    <text x="200" y="330" fill="#3f8f4a">n</text>
+    <text x="240" y="330" fill="#c98a1c">e</text>
+    <text x="280" y="330" fill="#7a4fa3">s</text>
+    <text x="322" y="330" fill="#1f9aa6">t</text>
+    <text x="356" y="330" fill="#c2542e">h</text>
+    <text x="400" y="330" fill="#b0322b">é</text>
+    <text x="440" y="330" fill="#5b8f2f">s</text>
+    <text x="482" y="330" fill="#8a5a2b">i</text>
+    <text x="506" y="330" fill="#2f6fb0">e</text>
+  </g>
+  <text x="315" y="392" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13.5" fill="#6f675c">Chaque lettre a sa teinte, et elle ne change pas :</text>
+  <text x="315" y="412" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13.5" fill="#6f675c">retesté un an plus tard, un synesthète redonne</text>
+  <text x="315" y="432" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13.5" fill="#6f675c">les mêmes couleurs dans 90 % des cas,</text>
+  <text x="315" y="452" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13.5" fill="#6f675c">contre 30 à 40 % pour les autres, prévenus.</text>
+
+  <!-- ================= Panneau 2 : bouba / kiki ================= -->
+  <text x="630" y="162" font-family="'DejaVu Sans', sans-serif" font-size="13.5" fill="#5c767c">L'EFFET BOUBA-KIKI, PARTAGÉ PAR PRESQUE TOUS</text>
+
+  <rect x="630" y="182" width="510" height="300" rx="8" fill="#f2ede0" stroke="#ddd6c8" stroke-width="2"/>
+
+  <!-- forme ronde -->
+  <path d="M 720 330 a 70 60 0 1 1 140 0 a 70 60 0 1 1 -140 0" fill="#9c4a1e" opacity="0.85"/>
+  <text x="790" y="300" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="26" fill="#faf7f0">bouba</text>
+
+  <!-- forme pointue -->
+  <path d="M 1000 250 l 22 44 49 7 -35 34 8 49 -44 -23 -44 23 8 -49 -35 -34 49 -7 z" fill="#26221c"/>
+  <text x="1000" y="410" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="26" fill="#26221c">kiki</text>
+
+  <text x="885" y="452" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13.5" fill="#6f675c">Le son rond va à la forme ronde : un réflexe</text>
+  <text x="885" y="470" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13.5" fill="#6f675c">qu'on retrouve des bébés de 4 mois aux poussins.</text>
+
+  <!-- ================= Frise ================= -->
+  <line x1="60" y1="540" x2="1140" y2="540" stroke="#ddd6c8" stroke-width="2"/>
+
+  <line x1="120" y1="648" x2="1080" y2="648" stroke="#26221c" stroke-width="3"/>
+
+  <g font-family="'DejaVu Sans', sans-serif" text-anchor="middle">
+    <circle cx="120" cy="648" r="8" fill="#26221c"/>
+    <text x="120" y="624" font-family="Georgia, 'Times New Roman', serif" font-size="19" fill="#26221c">1812</text>
+    <text x="120" y="678" font-size="12.5" fill="#6f675c">première description</text>
+    <text x="120" y="696" font-size="12.5" fill="#6f675c">scientifique connue</text>
+
+    <circle cx="360" cy="648" r="8" fill="#26221c"/>
+    <text x="360" y="624" font-family="Georgia, 'Times New Roman', serif" font-size="19" fill="#26221c">1880</text>
+    <text x="360" y="678" font-size="12.5" fill="#6f675c">Galton relance</text>
+    <text x="360" y="696" font-size="12.5" fill="#6f675c">l'intérêt</text>
+
+    <circle cx="600" cy="648" r="8" fill="#9c4a1e"/>
+    <text x="600" y="624" font-family="Georgia, 'Times New Roman', serif" font-size="19" fill="#26221c">années 1930</text>
+    <text x="600" y="678" font-size="12.5" fill="#6f675c">oubliée : trop</text>
+    <text x="600" y="696" font-size="12.5" fill="#6f675c">subjective à prouver</text>
+
+    <circle cx="840" cy="648" r="8" fill="#26221c"/>
+    <text x="840" y="624" font-family="Georgia, 'Times New Roman', serif" font-size="19" fill="#26221c">années 1980</text>
+    <text x="840" y="678" font-size="12.5" fill="#6f675c">le retour des</text>
+    <text x="840" y="696" font-size="12.5" fill="#6f675c">sciences cognitives</text>
+
+    <circle cx="1080" cy="648" r="8" fill="#9c4a1e"/>
+    <text x="1080" y="624" font-family="Georgia, 'Times New Roman', serif" font-size="19" fill="#26221c">2001</text>
+    <text x="1080" y="678" font-size="12.5" fill="#6f675c">le test de la figure</text>
+    <text x="1080" y="696" font-size="12.5" fill="#6f675c">cachée la démontre</text>
+  </g>
+</svg>
