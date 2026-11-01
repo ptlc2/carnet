@@ -3,7 +3,6 @@ title: "Voir les lettres en couleurs"
 date: 2026-11-01
 tags: ["langue", "sciences"]
 summary: "Pour certaines personnes, chaque lettre a une couleur, chaque note un goût. Ce n'est pas une métaphore mais une perception : la synesthésie. Et une version atténuée de ce mélange des sens existe chez presque tout le monde."
-draft: true
 ---
 
 Il y a des gens pour qui le mot « rouge » n'est pas rouge, mais dont le « a » l'est. D'autres pour qui un accord de piano a une teinte, ou pour qui le mot « mince » a le goût de la viande hachée. Ce n'est pas une image, ni une façon de parler : c'est une [perception](https://fr.wikipedia.org/wiki/Synesth%C3%A9sie) réelle, involontaire et stable. On l'appelle la synesthésie, du grec *syn*, « avec », et *aisthesis*, « sensation » : deux sens qui se répondent au lieu de rester séparés.
