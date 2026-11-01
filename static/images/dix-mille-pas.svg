@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" width="1200" height="760" role="img" aria-labelledby="ttl desc">
+  <title id="ttl">L'objectif des dix mille pas : un compteur japonais de 1965</title>
+  <desc id="desc">À gauche, le premier compteur de pas à visée grand public, le manpo-kei japonais de 1965, avec son affichage « 10 000 ». À droite, un graphique du bénéfice pour la santé selon le nombre de pas quotidiens : la courbe monte puis plafonne vers sept mille pas, bien avant l'objectif affiché de dix mille. En bas, une frise de dates : 1590, 1780, 1965, 2013 et 2025.</desc>
+
+  <rect width="1200" height="760" fill="#faf7f0"/>
+
+  <text x="600" y="54" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#26221c">D'où vient l'objectif des dix mille pas</text>
+  <text x="600" y="92" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="19" font-style="italic" fill="#6f675c">Un chiffre rond né d'une campagne japonaise, pas d'une ordonnance</text>
+
+  <line x1="60" y1="122" x2="1140" y2="122" stroke="#ddd6c8" stroke-width="2"/>
+
+  <!-- ================= Panneau 1 : le manpo-kei ================= -->
+  <text x="60" y="162" font-family="'DejaVu Sans', sans-serif" font-size="13.5" fill="#5c767c">LE MANPO-KEI, JAPON, 1965</text>
+
+  <rect x="60" y="182" width="510" height="320" rx="8" fill="#f2ede0" stroke="#ddd6c8" stroke-width="2"/>
+
+  <!-- l'appareil -->
+  <rect x="215" y="232" width="200" height="180" rx="24" fill="#26221c"/>
+  <rect x="245" y="262" width="140" height="66" rx="10" fill="#cfd8c4"/>
+  <text x="315" y="308" text-anchor="middle" font-family="'DejaVu Sans Mono', monospace" font-size="34" font-weight="bold" fill="#26221c">10000</text>
+  <circle cx="315" cy="368" r="26" fill="none" stroke="#6f675c" stroke-width="6"/>
+  <line x1="315" y1="368" x2="315" y2="348" stroke="#9c4a1e" stroke-width="5"/>
+  <line x1="315" y1="368" x2="329" y2="378" stroke="#9c4a1e" stroke-width="5"/>
+
+  <text x="315" y="446" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="14" fill="#6f675c">« manpo-kei » : « compteur</text>
+  <text x="315" y="466" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="14" fill="#6f675c">de dix mille pas »</text>
+  <text x="315" y="490" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13" font-style="italic" fill="#9c4a1e">le chiffre était un slogan, pas une mesure</text>
+
+  <!-- ================= Panneau 2 : le graphique ================= -->
+  <text x="630" y="162" font-family="'DejaVu Sans', sans-serif" font-size="13.5" fill="#5c767c">LE BÉNÉFICE, SELON LES ÉTUDES RÉCENTES</text>
+
+  <rect x="630" y="182" width="510" height="320" rx="8" fill="#f2ede0" stroke="#ddd6c8" stroke-width="2"/>
+
+  <!-- axes -->
+  <line x1="700" y1="440" x2="1100" y2="440" stroke="#26221c" stroke-width="2.5"/>
+  <line x1="700" y1="440" x2="700" y2="230" stroke="#26221c" stroke-width="2.5"/>
+  <text x="1100" y="486" text-anchor="end" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#6f675c">pas par jour →</text>
+  <text x="708" y="262" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#6f675c">bénéfice ↑</text>
+
+  <!-- courbe : montée puis plateau -->
+  <path d="M 700 430 C 760 400, 800 330, 880 300 C 940 282, 1000 276, 1100 274"
+        fill="none" stroke="#9c4a1e" stroke-width="4"/>
+
+  <!-- repère 7000 -->
+  <line x1="905" y1="288" x2="905" y2="440" stroke="#26221c" stroke-width="1.5" stroke-dasharray="5 5"/>
+  <text x="905" y="462" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13" font-weight="bold" fill="#26221c">~7 000</text>
+
+  <!-- repère 10000 -->
+  <line x1="1035" y1="274" x2="1035" y2="440" stroke="#5c767c" stroke-width="1.5" stroke-dasharray="5 5"/>
+  <text x="1035" y="462" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#5c767c">10 000</text>
+
+  <text x="900" y="212" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13.5" fill="#6f675c">L'essentiel du gain est acquis vers 7 000 pas ;</text>
+  <text x="900" y="232" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13.5" fill="#6f675c">au-delà, la courbe s'aplatit.</text>
+
+  <!-- ================= Frise ================= -->
+  <line x1="60" y1="546" x2="1140" y2="546" stroke="#ddd6c8" stroke-width="2"/>
+
+  <line x1="120" y1="654" x2="1080" y2="654" stroke="#26221c" stroke-width="3"/>
+
+  <g font-family="'DejaVu Sans', sans-serif" text-anchor="middle">
+    <circle cx="120" cy="654" r="8" fill="#26221c"/>
+    <text x="120" y="630" font-family="Georgia, 'Times New Roman', serif" font-size="19" fill="#26221c">1590</text>
+    <text x="120" y="684" font-size="12.5" fill="#6f675c">un compteur</text>
+    <text x="120" y="702" font-size="12.5" fill="#6f675c">mécanique allemand</text>
+
+    <circle cx="360" cy="654" r="8" fill="#26221c"/>
+    <text x="360" y="630" font-family="Georgia, 'Times New Roman', serif" font-size="19" fill="#26221c">1780</text>
+    <text x="360" y="684" font-size="12.5" fill="#6f675c">Perrelet, en Suisse,</text>
+    <text x="360" y="702" font-size="12.5" fill="#6f675c">le greffe à la marche</text>
+
+    <circle cx="600" cy="654" r="8" fill="#9c4a1e"/>
+    <text x="600" y="630" font-family="Georgia, 'Times New Roman', serif" font-size="19" fill="#26221c">1965</text>
+    <text x="600" y="684" font-size="12.5" fill="#6f675c">le manpo-kei fixe</text>
+    <text x="600" y="702" font-size="12.5" fill="#6f675c">le seuil à 10 000</text>
+
+    <circle cx="840" cy="654" r="8" fill="#26221c"/>
+    <text x="840" y="630" font-family="Georgia, 'Times New Roman', serif" font-size="19" fill="#26221c">2013</text>
+    <text x="840" y="684" font-size="12.5" fill="#6f675c">le capteur entre</text>
+    <text x="840" y="702" font-size="12.5" fill="#6f675c">dans le téléphone</text>
+
+    <circle cx="1080" cy="654" r="8" fill="#9c4a1e"/>
+    <text x="1080" y="630" font-family="Georgia, 'Times New Roman', serif" font-size="19" fill="#26221c">2025</text>
+    <text x="1080" y="684" font-size="12.5" fill="#6f675c">la synthèse qui</text>
+    <text x="1080" y="702" font-size="12.5" fill="#6f675c">ramène le seuil</text>
+  </g>
+</svg>
