@@ -3,7 +3,6 @@ title: "D'où vient l'objectif des dix mille pas"
 date: 2026-11-03
 tags: ["quotidien", "sciences"]
 summary: "Dix mille pas par jour : le chiffre est partout, dans les montres et les téléphones. Il ne vient pourtant d'aucune étude. Il vient d'un compteur japonais de 1965 et d'un slogan publicitaire."
-draft: true
 ---
 
 Dix mille pas. Le chiffre est partout : au poignet, dans la poche, affiché en fin de journée comme un devoir à rendre. Il a l'air d'une prescription médicale, d'un seuil calculé par des chercheurs. Il n'en est rien. Il vient d'une petite boîte en plastique vendue au Japon en 1965, et d'un slogan.

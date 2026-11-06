@@ -3,7 +3,6 @@ title: "Un cocktail, c'est surtout de l'eau"
 date: 2026-11-02
 tags: ["quotidien", "histoire"]
 summary: "On croit qu'un cocktail, c'est de l'alcool arrangé. Mais pesez le verre avant et après : un quart du liquide n'était sur aucune recette. C'est l'eau de la glace qui a fondu, et c'est elle qui fait le cocktail."
-draft: true
 ---
 
 Il y a une chose que les recettes ne disent jamais. Prenez un dry martini : six centilitres de gin, un de vermouth, quelques gouttes de bitter. Mélangez, servez. Mais pesez le verre avant et après la préparation : le liquide a grossi d'environ un quart. Ce quart, ce n'est ni du gin ni du vermouth. C'est de l'eau, venue de la glace qui a fondu.
