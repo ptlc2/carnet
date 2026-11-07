@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 680" width="1200" height="680" role="img" aria-labelledby="ttl desc">
+  <title id="ttl">L'esperluette est une lettre qui contient un mot</title>
+  <desc id="desc">Frise d'évolution en quatre étapes : le e et le t séparés dans la cursive romaine du Ier siècle, la ligature et du IXe siècle, la forme italique penchée de la Renaissance, puis le signe moderne. En bas, la fin d'un abécédaire ancien X Y Z esperluette, avec une accolade qui relie le signe à la phrase et per se et, d'où viennent les noms ampersand et esperluette.</desc>
+
+  <rect width="1200" height="680" fill="#faf7f0"/>
+
+  <text x="600" y="54" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#26221c">L'esperluette est une lettre qui contient un mot</text>
+  <text x="600" y="92" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="19" font-style="italic" fill="#6f675c">Un « et » figé, devenu un signe, un temps 27e lettre de l'alphabet</text>
+
+  <line x1="60" y1="122" x2="1140" y2="122" stroke="#ddd6c8" stroke-width="2"/>
+
+  <!-- ============ Frise d'évolution ============ -->
+  <text x="60" y="162" font-family="'DejaVu Sans', sans-serif" font-size="13.5" fill="#5c767c">DE DEUX LETTRES À UN SEUL SIGNE</text>
+
+  <!-- Carte 1 -->
+  <rect x="70" y="184" width="240" height="196" rx="8" fill="#f2ede0" stroke="#ddd6c8" stroke-width="2"/>
+  <text x="190" y="300" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="96" font-style="italic" fill="#26221c">et</text>
+  <text x="190" y="342" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#6f675c">e + t séparés</text>
+  <text x="190" y="362" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="12" fill="#9c4a1e">cursive romaine, Ier s.</text>
+
+  <!-- flèche 1 -->
+  <g stroke="#b9b09e" stroke-width="3" fill="#b9b09e">
+    <line x1="322" y1="282" x2="352" y2="282"/>
+    <path d="M 356 282 l -10 -6 l 0 12 z"/>
+  </g>
+
+  <!-- Carte 2 -->
+  <rect x="360" y="184" width="240" height="196" rx="8" fill="#f2ede0" stroke="#ddd6c8" stroke-width="2"/>
+  <text x="480" y="300" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="104" fill="#26221c">&amp;</text>
+  <text x="480" y="342" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#6f675c">ligature e-t</text>
+  <text x="480" y="362" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="12" fill="#9c4a1e">minuscule carolingienne, IXe s.</text>
+
+  <!-- flèche 2 -->
+  <g stroke="#b9b09e" stroke-width="3" fill="#b9b09e">
+    <line x1="612" y1="282" x2="642" y2="282"/>
+    <path d="M 646 282 l -10 -6 l 0 12 z"/>
+  </g>
+
+  <!-- Carte 3 -->
+  <rect x="650" y="184" width="240" height="196" rx="8" fill="#f2ede0" stroke="#ddd6c8" stroke-width="2"/>
+  <text x="770" y="300" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="104" font-style="italic" fill="#26221c">&amp;</text>
+  <text x="770" y="342" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#6f675c">forme penchée</text>
+  <text x="770" y="362" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="12" fill="#9c4a1e">italique, Renaissance</text>
+
+  <!-- flèche 3 -->
+  <g stroke="#b9b09e" stroke-width="3" fill="#b9b09e">
+    <line x1="902" y1="282" x2="932" y2="282"/>
+    <path d="M 936 282 l -10 -6 l 0 12 z"/>
+  </g>
+
+  <!-- Carte 4 -->
+  <rect x="940" y="184" width="190" height="196" rx="8" fill="#f2ede0" stroke="#ddd6c8" stroke-width="2"/>
+  <text x="1035" y="300" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="110" fill="#26221c">&amp;</text>
+  <text x="1035" y="342" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#6f675c">esperluette</text>
+  <text x="1035" y="362" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="12" fill="#9c4a1e">aujourd'hui</text>
+
+  <!-- ============ Bandeau bas : le 27e signe ============ -->
+  <rect x="60" y="418" width="1080" height="222" rx="8" fill="#f2ede0" stroke="#ddd6c8" stroke-width="2"/>
+  <text x="90" y="458" font-family="'DejaVu Sans', sans-serif" font-size="13.5" fill="#5c767c">LA 27e LETTRE, APPRISE APRÈS LE Z</text>
+
+  <!-- rangée alphabet -->
+  <text x="600" y="546" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="58" fill="#26221c">. . . X  Y  Z  <tspan fill="#9c4a1e">&amp;</tspan></text>
+
+  <!-- accolade sous le & -->
+  <path d="M 968 566 q 0 16 -18 16 l -60 0 q -16 0 -16 16 q 0 -16 -16 -16 l -60 0 q -18 0 -18 -16"
+        fill="none" stroke="#9c4a1e" stroke-width="2.5"/>
+  <text x="826" y="626" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="14" font-style="italic" fill="#9c4a1e">« et, per se, et »</text>
+  <text x="826" y="648" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="12.5" fill="#6f675c">prononcé d'un trait → « ampersand », « esperluette »</text>
+</svg>
