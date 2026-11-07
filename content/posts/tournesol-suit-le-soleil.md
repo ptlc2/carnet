@@ -1,7 +1,7 @@
 ---
 title: "Le tournesol suit le soleil, puis il s'arrête"
 date: 2026-11-07
-draft: true
+draft: false
 tags: ["nature", "sciences"]
 summary: "On dit que le tournesol suit le soleil. C'est vrai, mais seulement tant que la fleur n'est pas ouverte : le mouvement vient d'une horloge interne et d'une tige qui pousse plus d'un côté que de l'autre."
 ---
