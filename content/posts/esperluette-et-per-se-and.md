@@ -1,7 +1,6 @@
 ---
 title: "L'esperluette est une lettre qui contient un mot"
 date: 2026-11-08
-draft: true
 tags: ["langue", "histoire", "écriture"]
 summary: "Le signe « & » est un « et » figé : la ligature de deux lettres, devenue un dessin. Il a même été la 27e lettre de l'alphabet, et son nom raconte comment on apprenait à lire."
 ---
