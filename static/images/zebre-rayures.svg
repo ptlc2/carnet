@@ -1,0 +1,148 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" width="1200" height="720" role="img" aria-labelledby="ttl desc">
+  <title id="ttl">Le zèbre n'est pas rayé pour se cacher</title>
+  <desc id="desc">En haut, la tête et l'encolure d'un zèbre rayé de noir et blanc, entouré de taons qui approchent selon des trajectoires en pointillé ; l'un percute la robe et rebondit sans se poser. En bas, la liste des cinq hypothèses : camouflage, confusion des prédateurs, régulation thermique et fonction sociale sont barrées d'une croix, seule celle des mouches piqueuses est cochée. À droite, un graphique en barres montre environ deux fois moins de mouches posées sur une robe rayée que sur une robe unie.</desc>
+
+  <rect width="1200" height="720" fill="#faf7f0"/>
+
+  <text x="600" y="54" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#26221c">Le zèbre n'est pas rayé pour se cacher</text>
+  <text x="600" y="92" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="19" font-style="italic" fill="#6f675c">La piste des mouches piqueuses, des caméras aux vaches peintes</text>
+
+  <line x1="60" y1="122" x2="1140" y2="122" stroke="#ddd6c8" stroke-width="2"/>
+
+  <text x="60" y="162" font-family="'DejaVu Sans', sans-serif" font-size="13.5" fill="#5c767c">LE ZÈBRE ET LES MOUCHES</text>
+
+  <!-- ====== ZÈBRE ====== -->
+  <defs>
+    <clipPath id="zbody">
+      <path d="M 150 435 C 150 360 200 300 300 266 C 400 232 500 208 596 202 C 640 200 688 210 716 226 C 754 248 782 276 788 300 C 792 314 782 324 760 324 C 716 324 672 320 628 312 C 556 304 478 330 414 386 C 386 410 354 430 322 435 Z"/>
+    </clipPath>
+  </defs>
+
+  <!-- corps -->
+  <path d="M 150 435 C 150 360 200 300 300 266 C 400 232 500 208 596 202 C 640 200 688 210 716 226 C 754 248 782 276 788 300 C 792 314 782 324 760 324 C 716 324 672 320 628 312 C 556 304 478 330 414 386 C 386 410 354 430 322 435 Z" fill="#f2ede0"/>
+
+  <!-- rayures -->
+  <g clip-path="url(#zbody)" stroke="#1c1a17" stroke-width="15" fill="none">
+    <line x1="196" y1="150" x2="140" y2="470"/>
+    <line x1="242" y1="150" x2="186" y2="470"/>
+    <line x1="288" y1="150" x2="232" y2="470"/>
+    <line x1="334" y1="150" x2="278" y2="470"/>
+    <line x1="380" y1="150" x2="324" y2="470"/>
+    <line x1="426" y1="150" x2="370" y2="470"/>
+    <line x1="472" y1="150" x2="416" y2="470"/>
+    <line x1="518" y1="150" x2="462" y2="470"/>
+    <line x1="564" y1="150" x2="508" y2="470"/>
+    <line x1="610" y1="150" x2="554" y2="470"/>
+    <line x1="656" y1="150" x2="600" y2="470"/>
+    <line x1="702" y1="150" x2="646" y2="470"/>
+    <line x1="748" y1="150" x2="692" y2="470"/>
+    <line x1="794" y1="150" x2="738" y2="470"/>
+  </g>
+
+  <!-- contour -->
+  <path d="M 150 435 C 150 360 200 300 300 266 C 400 232 500 208 596 202 C 640 200 688 210 716 226 C 754 248 782 276 788 300 C 792 314 782 324 760 324 C 716 324 672 320 628 312 C 556 304 478 330 414 386 C 386 410 354 430 322 435 Z" fill="none" stroke="#1c1a17" stroke-width="3"/>
+
+  <!-- crinière -->
+  <g fill="#1c1a17">
+    <path d="M 298 266 L 322 268 L 310 246 Z"/>
+    <path d="M 340 252 L 364 253 L 352 232 Z"/>
+    <path d="M 382 240 L 406 241 L 394 220 Z"/>
+    <path d="M 424 230 L 448 230 L 436 210 Z"/>
+    <path d="M 466 222 L 490 222 L 478 202 Z"/>
+    <path d="M 508 215 L 532 215 L 520 196 Z"/>
+    <path d="M 550 209 L 574 209 L 562 190 Z"/>
+    <path d="M 592 204 L 616 204 L 604 186 Z"/>
+  </g>
+
+  <!-- oreille -->
+  <path d="M 634 204 L 648 168 L 664 202 Z" fill="#1c1a17"/>
+  <!-- oeil -->
+  <circle cx="692" cy="234" r="6" fill="#1c1a17"/>
+  <!-- bouche -->
+  <path d="M 706 318 C 738 322 764 318 782 306" fill="none" stroke="#1c1a17" stroke-width="2.4" opacity="0.55"/>
+  <!-- naseau -->
+  <circle cx="772" cy="300" r="4" fill="#1c1a17"/>
+
+  <!-- ====== TAONS ====== -->
+  <g fill="none" stroke="#9c4a1e" stroke-width="2" stroke-dasharray="7 6">
+    <path d="M 1120 246 C 1010 246 940 258 876 268"/>
+    <path d="M 1120 340 C 1020 340 950 330 884 314"/>
+    <path d="M 1090 400 C 1000 408 930 406 878 386"/>
+  </g>
+
+  <g fill="#3a2a20">
+    <g transform="translate(1096,242)"><ellipse cx="0" cy="0" rx="9" ry="5"/><ellipse cx="-7" cy="-6" rx="8" ry="3.5" transform="rotate(-28 -7 -6)" fill="#c9bda6"/><ellipse cx="-3" cy="-7" rx="8" ry="3.5" transform="rotate(12 -3 -7)" fill="#c9bda6"/></g>
+    <g transform="translate(1084,344)"><ellipse cx="0" cy="0" rx="9" ry="5"/><ellipse cx="-7" cy="-6" rx="8" ry="3.5" transform="rotate(-28 -7 -6)" fill="#c9bda6"/><ellipse cx="-3" cy="-7" rx="8" ry="3.5" transform="rotate(12 -3 -7)" fill="#c9bda6"/></g>
+    <g transform="translate(1056,406)"><ellipse cx="0" cy="0" rx="9" ry="5"/><ellipse cx="-7" cy="-6" rx="8" ry="3.5" transform="rotate(-28 -7 -6)" fill="#c9bda6"/><ellipse cx="-3" cy="-7" rx="8" ry="3.5" transform="rotate(12 -3 -7)" fill="#c9bda6"/></g>
+    <g transform="translate(940,268)"><ellipse cx="0" cy="0" rx="8" ry="4.5"/><ellipse cx="-6" cy="-5" rx="7" ry="3" transform="rotate(-28 -6 -5)" fill="#c9bda6"/><ellipse cx="-3" cy="-6" rx="7" ry="3" transform="rotate(12 -3 -6)" fill="#c9bda6"/></g>
+    <g transform="translate(930,312)"><ellipse cx="0" cy="0" rx="8" ry="4.5"/><ellipse cx="-6" cy="-5" rx="7" ry="3" transform="rotate(-28 -6 -5)" fill="#c9bda6"/><ellipse cx="-3" cy="-6" rx="7" ry="3" transform="rotate(12 -3 -6)" fill="#c9bda6"/></g>
+  </g>
+
+  <!-- rebond -->
+  <g stroke="#9c4a1e" stroke-width="3" fill="none" stroke-linecap="round">
+    <path d="M 852 286 C 828 272 826 256 844 246"/>
+    <path d="M 844 246 l -13 5"/>
+    <path d="M 844 246 l 5 -13"/>
+  </g>
+  <g stroke="#9c4a1e" stroke-width="3" stroke-linecap="round">
+    <line x1="842" y1="278" x2="834" y2="272"/>
+    <line x1="852" y1="276" x2="848" y2="266"/>
+    <line x1="854" y1="290" x2="864" y2="286"/>
+  </g>
+
+  <text x="1096" y="220" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="14" fill="#9c4a1e">le taon fonce…</text>
+  <text x="880" y="446" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="14" fill="#9c4a1e">…percute et repart</text>
+  <text x="660" y="472" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="14" fill="#6f675c">les rayures brouillent l'atterrissage</text>
+
+  <!-- ====== bas ====== -->
+  <line x1="60" y1="500" x2="1140" y2="500" stroke="#ddd6c8" stroke-width="2"/>
+
+  <text x="60" y="540" font-family="'DejaVu Sans', sans-serif" font-size="13.5" fill="#5c767c">LES CINQ HYPOTHÈSES</text>
+
+  <g font-family="'DejaVu Sans', sans-serif" font-size="17" fill="#26221c">
+    <g transform="translate(64,568)">
+      <circle cx="10" cy="-6" r="11" fill="none" stroke="#b9b09e" stroke-width="2"/>
+      <path d="M 3 -6 L 17 -6 M 10 -13 L 10 1" stroke="#b0472e" stroke-width="2.6" stroke-linecap="round"/>
+      <text x="34" y="0" fill="#8a8275">camouflage</text>
+    </g>
+    <g transform="translate(64,600)">
+      <circle cx="10" cy="-6" r="11" fill="none" stroke="#b9b09e" stroke-width="2"/>
+      <path d="M 3 -6 L 17 -6 M 10 -13 L 10 1" stroke="#b0472e" stroke-width="2.6" stroke-linecap="round"/>
+      <text x="34" y="0" fill="#8a8275">confusion des prédateurs</text>
+    </g>
+    <g transform="translate(64,632)">
+      <circle cx="10" cy="-6" r="11" fill="none" stroke="#b9b09e" stroke-width="2"/>
+      <path d="M 3 -6 L 17 -6 M 10 -13 L 10 1" stroke="#b0472e" stroke-width="2.6" stroke-linecap="round"/>
+      <text x="34" y="0" fill="#8a8275">régulation thermique</text>
+    </g>
+    <g transform="translate(64,664)">
+      <circle cx="10" cy="-6" r="11" fill="none" stroke="#b9b09e" stroke-width="2"/>
+      <path d="M 3 -6 L 17 -6 M 10 -13 L 10 1" stroke="#b0472e" stroke-width="2.6" stroke-linecap="round"/>
+      <text x="34" y="0" fill="#8a8275">fonction sociale</text>
+    </g>
+    <g transform="translate(64,696)">
+      <circle cx="10" cy="-6" r="12" fill="#3f6b4a"/>
+      <path d="M 3 -6 L 8 -1 L 18 -12" fill="none" stroke="#f2ede0" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="34" y="0" fill="#26221c" font-weight="bold">éloigner les mouches piqueuses</text>
+    </g>
+  </g>
+
+  <text x="620" y="540" font-family="'DejaVu Sans', sans-serif" font-size="13.5" fill="#5c767c">MOUCHES POSÉES (VACHES PEINTES, 2019)</text>
+
+  <g font-family="'DejaVu Sans', sans-serif" font-size="15" fill="#26221c">
+    <text x="620" y="592">robe unie</text>
+    <rect x="620" y="602" width="440" height="30" fill="#d8cfbc"/>
+    <rect x="620" y="602" width="440" height="30" fill="none" stroke="#c3b8a0" stroke-width="1"/>
+    <text x="1070" y="623" fill="#6f675c" font-size="14">≈ 100 %</text>
+
+    <text x="620" y="672">robe rayée</text>
+    <rect x="620" y="682" width="220" height="30" fill="#1c1a17"/>
+    <rect x="620" y="682" width="220" height="30" fill="none" stroke="#c3b8a0" stroke-width="1"/>
+    <text x="850" y="703" fill="#3f6b4a" font-size="14" font-weight="bold">− 50 %</text>
+  </g>
+
+  <g fill="#3a2a20">
+    <circle cx="680" cy="617" r="4"/><circle cx="730" cy="613" r="4"/><circle cx="782" cy="620" r="4"/><circle cx="834" cy="614" r="4"/><circle cx="890" cy="619" r="4"/><circle cx="946" cy="613" r="4"/><circle cx="1000" cy="620" r="4"/>
+    <circle cx="680" cy="697" r="4"/><circle cx="740" cy="700" r="4"/><circle cx="800" cy="695" r="4"/>
+  </g>
+</svg>
