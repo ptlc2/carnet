@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 680" width="1200" height="680" role="img" aria-labelledby="ttl desc">
+  <title id="ttl">La vague de mélasse qui a noyé Boston</title>
+  <desc id="desc">En haut, la coupe du réservoir de la Purity Distilling Company : un cylindre de 15 mètres de haut et 27 mètres de diamètre, rempli de 8 700 mètres cubes de mélasse, fissuré à sa base. À droite, la vague de mélasse qui en jaillit, haute de 8 mètres et filant à environ 56 km/h. En bas, une frise : réservoir construit en 1915, rupture le 15 janvier 1919 vers 12h30, 21 morts et 150 blessés, jugement en 1925, puis durcissement des codes du bâtiment et parc sur le site aujourd'hui.</desc>
+
+  <rect width="1200" height="680" fill="#faf7f0"/>
+
+  <text x="600" y="54" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#26221c">La vague de mélasse qui a noyé Boston</text>
+  <text x="600" y="92" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="19" font-style="italic" fill="#6f675c">15 janvier 1919 : un réservoir cède, et 8 700 m³ de sirop traversent la ville</text>
+
+  <line x1="60" y1="122" x2="1140" y2="122" stroke="#ddd6c8" stroke-width="2"/>
+
+  <text x="60" y="162" font-family="'DejaVu Sans', sans-serif" font-size="13.5" fill="#5c767c">LA RUPTURE DU RÉSERVOIR</text>
+
+  <!-- Sol -->
+  <rect x="60" y="452" width="1080" height="6" fill="#cbbfa8"/>
+
+  <!-- Réservoir -->
+  <rect x="150" y="222" width="170" height="230" fill="#6b3a17"/>
+  <ellipse cx="235" cy="452" rx="85" ry="16" fill="#4a2710"/>
+  <ellipse cx="235" cy="222" rx="85" ry="18" fill="#8a5122"/>
+  <ellipse cx="235" cy="222" rx="85" ry="18" fill="none" stroke="#3d1f0c" stroke-width="2"/>
+  <!-- rivets -->
+  <g fill="#4a2710">
+    <circle cx="158" cy="250" r="3"/><circle cx="158" cy="300" r="3"/><circle cx="158" cy="350" r="3"/><circle cx="158" cy="400" r="3"/><circle cx="158" cy="440" r="3"/>
+    <circle cx="312" cy="250" r="3"/><circle cx="312" cy="300" r="3"/><circle cx="312" cy="350" r="3"/><circle cx="312" cy="400" r="3"/><circle cx="312" cy="440" r="3"/>
+  </g>
+  <!-- fissure à la base -->
+  <path d="M 305 448 l -14 -12 l 8 -14 l -12 -10" fill="none" stroke="#2a1407" stroke-width="4" stroke-linejoin="round"/>
+
+  <text x="235" y="200" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="14" fill="#6f675c">Purity Distilling Company</text>
+  <text x="235" y="500" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#6f675c">15 m de haut</text>
+  <text x="235" y="520" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#6f675c">27 m de diamètre</text>
+  <text x="235" y="540" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#9c4a1e">8 700 m³ (13 000 t) de mélasse</text>
+
+  <!-- Vague de mélasse -->
+  <path d="M 320 452 L 320 430 C 360 428 372 350 452 348 C 560 344 610 372 730 378 L 1030 384 L 1030 452 Z" fill="#6b3a17"/>
+  <path d="M 452 348 C 560 344 610 372 730 378 L 1030 384" fill="none" stroke="#8a5122" stroke-width="3"/>
+  <text x="700" y="420" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="14" fill="#f2ede0">vague de mélasse</text>
+
+  <!-- flèche de vitesse -->
+  <g stroke="#9c4a1e" stroke-width="3" fill="#9c4a1e">
+    <line x1="470" y1="300" x2="950" y2="300"/>
+    <path d="M 958 300 l -14 -7 l 0 14 z"/>
+  </g>
+  <text x="710" y="290" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="15" fill="#9c4a1e">≈ 56 km/h</text>
+
+  <!-- cote de hauteur -->
+  <g stroke="#5c767c" stroke-width="2" fill="#5c767c">
+    <line x1="348" y1="430" x2="348" y2="348"/>
+    <path d="M 348 340 l -6 12 l 12 0 z"/>
+    <path d="M 348 438 l -6 -12 l 12 0 z"/>
+  </g>
+  <text x="392" y="392" font-family="'DejaVu Sans', sans-serif" font-size="14" fill="#5c767c">8 m</text>
+
+  <!-- ============ Frise ============ -->
+  <line x1="100" y1="600" x2="1100" y2="600" stroke="#cbbfa8" stroke-width="3"/>
+
+  <g font-family="'DejaVu Sans', sans-serif" text-anchor="middle">
+    <circle cx="150" cy="600" r="9" fill="#b9b09e"/>
+    <text x="150" y="580" font-size="14" fill="#26221c">1915</text>
+    <text x="150" y="628" font-size="12" fill="#6f675c">réservoir</text>
+    <text x="150" y="645" font-size="12" fill="#6f675c">jamais testé</text>
+
+    <circle cx="380" cy="600" r="11" fill="#9c4a1e"/>
+    <text x="380" y="580" font-size="14" fill="#26221c">15 janv. 1919</text>
+    <text x="380" y="628" font-size="12" fill="#6f675c">rupture, 12h30</text>
+
+    <circle cx="610" cy="600" r="9" fill="#b9b09e"/>
+    <text x="610" y="580" font-size="14" fill="#26221c">21 morts</text>
+    <text x="610" y="628" font-size="12" fill="#6f675c">150 blessés</text>
+
+    <circle cx="840" cy="600" r="9" fill="#b9b09e"/>
+    <text x="840" y="580" font-size="14" fill="#26221c">1925</text>
+    <text x="840" y="628" font-size="12" fill="#6f675c">procès :</text>
+    <text x="840" y="645" font-size="12" fill="#6f675c">628 000 $</text>
+
+    <circle cx="1060" cy="600" r="9" fill="#b9b09e"/>
+    <text x="1060" y="580" font-size="14" fill="#26221c">depuis</text>
+    <text x="1060" y="628" font-size="12" fill="#6f675c">codes durcis,</text>
+    <text x="1060" y="645" font-size="12" fill="#6f675c">un parc</text>
+  </g>
+</svg>
