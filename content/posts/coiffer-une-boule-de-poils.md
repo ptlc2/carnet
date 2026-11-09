@@ -1,7 +1,7 @@
 ---
 title: "On ne peut pas coiffer une boule de poils"
 date: 2026-11-09
-draft: true
+draft: false
 tags: ["sciences", "jeux"]
 summary: "Le théorème de la boule chevelue dit qu'on ne peut pas peigner une sphère poilue sans laisser un épi. De là découlent un fait météorologique, la forme des réacteurs à fusion et, par contraste, la géométrie du beignet."
 ---
