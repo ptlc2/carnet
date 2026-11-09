@@ -1,6 +1,6 @@
 ---
 title: "Pourquoi le clavier commence par QWERTY"
-date: 2026-11-12
+date: 2026-11-17
 draft: true
 tags: ["technique", "histoire"]
 summary: "L'ordre des touches ne suit ni l'alphabet, ni la fréquence des lettres, ni la logique du doigté. Il vient d'une machine à écrire des années 1870, et la légende du clavier dessiné pour ralentir la frappe ne tient pas."
