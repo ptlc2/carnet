@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 740" width="1200" height="740" role="img" aria-labelledby="ttl desc">
+  <title id="ttl">Le français écrit en lettres russes</title>
+  <desc id="desc">Tableau comparatif à trois colonnes. Pour chaque mot français (Bordeaux, Foucault, Troyes, Comte, L'Humanité, Rousseau) sont donnés sa transcription en lettres russes et ce qu'elle révèle de la prononciation : le « aux » et le « l » sont muets, « oi » se dit [wa], la nasale « on » s'étale en voyelle suivie d'un n, le « u » devient « ю » et le « h » disparaît, la consonne doublée « ss » reste écrite.</desc>
+
+  <rect width="1200" height="740" fill="#faf7f0"/>
+
+  <text x="600" y="58" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#26221c">Le français écrit en lettres russes</text>
+  <text x="600" y="96" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="19" font-style="italic" fill="#6f675c">La transcription russe radiographie l'orthographe française</text>
+
+  <line x1="60" y1="128" x2="1140" y2="128" stroke="#ddd6c8" stroke-width="2"/>
+
+  <text x="90" y="172" font-family="'DejaVu Sans', sans-serif" font-size="13.5" fill="#5c767c">EN FRANÇAIS</text>
+  <text x="560" y="172" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13.5" fill="#5c767c">EN RUSSES</text>
+  <text x="780" y="172" font-family="'DejaVu Sans', sans-serif" font-size="13.5" fill="#5c767c">CE QUE ÇA RÉVÈLE</text>
+
+  <line x1="60" y1="192" x2="1140" y2="192" stroke="#ddd6c8" stroke-width="2"/>
+
+  <g font-family="Georgia, 'Times New Roman', serif" font-size="26" fill="#26221c">
+    <text x="90" y="238">Bordeaux</text>
+    <text x="90" y="320">Foucault</text>
+    <text x="90" y="402">Troyes</text>
+    <text x="90" y="484">Comte</text>
+    <text x="90" y="566">L'Humanité</text>
+    <text x="90" y="648">Rousseau</text>
+  </g>
+
+  <g font-family="'DejaVu Sans', sans-serif" font-size="27" fill="#9c4a1e" text-anchor="middle">
+    <text x="560" y="238">Бордо</text>
+    <text x="560" y="320">Фуко</text>
+    <text x="560" y="402">Труа</text>
+    <text x="560" y="484">Конт</text>
+    <text x="560" y="566">Юманите</text>
+    <text x="560" y="648">Руссо</text>
+  </g>
+
+  <g font-family="'DejaVu Sans', sans-serif" font-size="16" fill="#6f675c">
+    <text x="780" y="238">le « aux » et le « x » sont muets</text>
+    <text x="780" y="320">le « l » ne se prononce pas</text>
+    <text x="780" y="402">« oi » se dit [wa]</text>
+    <text x="780" y="484">« on » est une voyelle suivie d'un n</text>
+    <text x="780" y="566">le « u » devient « ю », le « h » disparaît</text>
+    <text x="780" y="648">la consonne doublée reste écrite</text>
+  </g>
+
+  <g stroke="#ddd6c8" stroke-width="1.5">
+    <line x1="60" y1="264" x2="1140" y2="264"/>
+    <line x1="60" y1="346" x2="1140" y2="346"/>
+    <line x1="60" y1="428" x2="1140" y2="428"/>
+    <line x1="60" y1="510" x2="1140" y2="510"/>
+    <line x1="60" y1="592" x2="1140" y2="592"/>
+    <line x1="60" y1="674" x2="1140" y2="674"/>
+  </g>
+</svg>
