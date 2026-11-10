@@ -1,7 +1,6 @@
 ---
 title: "La vague de mélasse qui a noyé Boston"
 date: 2026-11-10
-draft: true
 tags: ["histoire", "sciences"]
 summary: "Le 15 janvier 1919, un réservoir de mélasse a éclaté dans le nord de Boston. Un mur de sirop de huit mètres a traversé les rues à 56 km/h. L'affaire a changé les règles de la construction."
 ---
