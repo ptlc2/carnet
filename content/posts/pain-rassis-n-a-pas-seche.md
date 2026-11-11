@@ -6,7 +6,7 @@ tags: ["quotidien", "sciences"]
 summary: "On croit que le pain durcit parce qu'il a perdu son eau. C'est faux : son amidon se recristallise. D'où trois paradoxes, le réfrigérateur qui accélère, le congélateur qui stoppe, et le four qui défait."
 ---
 
-Sortez une baguette du four, laissez-la sur le comptoir, et le soir elle est dure. Tout le monde sait pourquoi : elle a séché. C'est faux. Le pain rassis n'a perdu qu'une trace de son eau, et il durcit tout autant enfermé dans un sac ou posé dans une pièce humide. Un chimiste [s'en étonnait déjà en 1874](https://fr.wiktionary.org/wiki/rassis) : « Le pain frais a perdu de 1 à 5 centièmes de son eau, mais il devient rassis même dans une atmosphère saturée d'humidité : on ne sait pas encore la cause de cette transformation singulière. »
+Sortez une baguette du four, laissez-la sur le comptoir, et le soir elle est dure. Tout le monde sait pourquoi : elle a séché. C'est faux. Le pain rassis n'a perdu qu'une trace de son eau, et il durcit tout autant enfermé dans un sac ou posé dans une pièce humide. Un chimiste [s'en étonnait déjà en 1874](https://fr.wiktionary.org/wiki/rassis) : « En cinq jours, le pain frais a perdu de 1 à 5 centièmes de son eau, mais il devient rassis même dans une atmosphère saturée d'humidité : on ne sait pas encore la cause de cette transformation singulière. »
 
 ## L'amidon qui se range
 
