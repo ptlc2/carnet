@@ -30,7 +30,7 @@ La preuve la plus parlante ne vient pas d'Afrique. En 2019, des chercheurs japon
 
 ## Ce qui reste ouvert
 
-Tout n'est pas tranché. Une équipe a défendu l'idée que les rayures [aidaient à évacuer la chaleur](https://royalsocietypublishing.org/doi/10.1098/rsos.150328), en créant de petites cellules de convection sur la peau. Mais des expériences contrôlées, avec des barils d'eau rayés ou non, n'ont [montré aucun refroidissement](https://www.nature.com/articles/s41598-018-27637-1). L'hypothèse survit, minoritaire.
+Tout n'est pas tranché. Une équipe a défendu l'idée que les rayures [aidaient à évacuer la chaleur](https://royalsocietypublishing.org/doi/10.1098/rsos.140452), en créant de petites cellules de convection sur la peau. Mais des expériences contrôlées, avec des barils d'eau rayés ou non, n'ont [montré aucun refroidissement](https://www.nature.com/articles/s41598-018-27637-1). L'hypothèse survit, minoritaire.
 
 Reste un détail que j'aime : les rayures sont [uniques à chaque individu](https://en.wikipedia.org/wiki/Zebra), comme une empreinte digitale. Une fonction rejetée à l'échelle de l'espèce peut donc rester vraie à l'échelle de l'individu. La nature ne choisit pas une explication, elle empile les usages.
 
