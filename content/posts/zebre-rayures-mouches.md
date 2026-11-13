@@ -1,7 +1,6 @@
 ---
 title: "Le zèbre n'est pas rayé pour se cacher"
 date: 2026-11-13
-draft: true
 tags: ["sciences", "nature"]
 summary: "Pendant un siècle, on a cru que les rayures du zèbre servaient de camouflage. Les expériences disent autre chose : elles empêchent les mouches piqueuses de se poser."
 ---
