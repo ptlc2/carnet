@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 740" width="1200" height="740" role="img" aria-labelledby="ttl desc">
+  <title id="ttl">L'eau chaude gèle parfois avant l'eau froide</title>
+  <desc id="desc">Deux panneaux. À gauche, deux verres identiques dans un congélateur : l'un contient de l'eau chaude à 90 degrés, l'autre de l'eau froide à 20 degrés. À droite, deux courbes de refroidissement en fonction du temps : la courbe de l'eau chaude part plus haut mais descend plus vite et franchit la ligne du zéro degré avant celle de l'eau froide.</desc>
+
+  <rect width="1200" height="740" fill="#faf7f0"/>
+
+  <text x="600" y="58" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="32" fill="#26221c">L'eau chaude gèle parfois avant l'eau froide</text>
+  <text x="600" y="96" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="19" font-style="italic" fill="#6f675c">Deux verres identiques, une seule différence : la température de départ</text>
+
+  <line x1="60" y1="128" x2="1140" y2="128" stroke="#ddd6c8" stroke-width="2"/>
+
+  <text x="305" y="172" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="15" fill="#5c767c">DANS LE CONGÉLATEUR</text>
+  <text x="885" y="172" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="15" fill="#5c767c">LA TEMPÉRATURE SELON LE TEMPS</text>
+
+  <rect x="70" y="205" width="470" height="440" rx="16" fill="#eaf1f4" stroke="#c9c2b4" stroke-width="1.5"/>
+  <text x="92" y="238" font-family="'DejaVu Sans', sans-serif" font-size="14" fill="#5c767c">congélateur, −18 °C</text>
+
+  <path d="M130 300 L130 520 Q130 545 155 545 L235 545 Q260 545 260 520 L260 300" fill="#fbfaf6" stroke="#b9b2a4" stroke-width="2"/>
+  <path d="M136 340 L136 520 Q136 540 156 540 L234 540 Q254 540 254 520 L254 340 Z" fill="#d98b6a"/>
+
+  <path d="M350 300 L350 520 Q350 545 375 545 L455 545 Q480 545 480 520 L480 300" fill="#fbfaf6" stroke="#b9b2a4" stroke-width="2"/>
+  <path d="M356 392 L356 520 Q356 540 376 540 L454 540 Q474 540 474 520 L474 392 Z" fill="#9fb9c4"/>
+
+  <text x="195" y="592" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="15" fill="#9c4a1e">eau chaude</text>
+  <text x="195" y="620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="21" fill="#9c4a1e">90 °C</text>
+  <text x="415" y="592" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="15" fill="#5c767c">eau froide</text>
+  <text x="415" y="620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="21" fill="#5c767c">20 °C</text>
+
+  <text x="690" y="255" text-anchor="end" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#6f675c">100 °C</text>
+  <text x="690" y="474" text-anchor="end" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#6f675c">0 °C</text>
+  <text x="690" y="514" text-anchor="end" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#6f675c">−18 °C</text>
+
+  <text x="662" y="410" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#5c767c" transform="rotate(-90 662 410)">température</text>
+  <text x="915" y="600" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#5c767c">temps</text>
+
+  <line x1="700" y1="240" x2="700" y2="560" stroke="#c9c2b4" stroke-width="2"/>
+  <line x1="700" y1="560" x2="1130" y2="560" stroke="#c9c2b4" stroke-width="2"/>
+
+  <line x1="700" y1="470" x2="1130" y2="470" stroke="#5c767c" stroke-width="1.5" stroke-dasharray="6 6"/>
+  <line x1="700" y1="510" x2="1130" y2="510" stroke="#c9c2b4" stroke-width="1.5" stroke-dasharray="4 6"/>
+
+  <polyline points="700,426 721,436 742,445 763,452 784,459 805,465 826,470 847,475 868,479 910,486 952,491 994,495 1036,499 1078,501 1120,503" fill="none" stroke="#5c767c" stroke-width="3"/>
+  <polyline points="700,272 721,346 742,398 763,433 784,457 805,474 826,485 847,493 868,498 910,504 952,507 994,509 1036,509 1078,510 1120,510" fill="none" stroke="#9c4a1e" stroke-width="3"/>
+
+  <circle cx="797" cy="470" r="6" fill="#9c4a1e"/>
+  <line x1="860" y1="315" x2="802" y2="462" stroke="#9c4a1e" stroke-width="1.2" stroke-dasharray="3 3"/>
+  <text x="872" y="292" font-family="'DejaVu Sans', sans-serif" font-size="14" fill="#26221c">l'eau chaude franchit</text>
+  <text x="872" y="312" font-family="'DejaVu Sans', sans-serif" font-size="14" fill="#26221c">le zéro degré la première</text>
+
+  <text x="710" y="283" font-family="'DejaVu Sans', sans-serif" font-size="12" fill="#9c4a1e">départ 90 °C</text>
+  <text x="710" y="456" font-family="'DejaVu Sans', sans-serif" font-size="12" fill="#5c767c">départ 20 °C</text>
+
+  <line x1="720" y1="534" x2="756" y2="534" stroke="#9c4a1e" stroke-width="3"/>
+  <text x="764" y="539" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#6f675c">eau chaude</text>
+  <line x1="905" y1="534" x2="941" y2="534" stroke="#5c767c" stroke-width="3"/>
+  <text x="949" y="539" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#6f675c">eau froide</text>
+
+  <text x="600" y="700" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="14" font-style="italic" fill="#6f675c">La courbe partie de plus haut peut franchir le gel la première : c'est tout le paradoxe.</text>
+</svg>
