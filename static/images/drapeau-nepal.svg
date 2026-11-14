@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 740" width="1200" height="740" role="img" aria-labelledby="ttl desc">
+  <title id="ttl">Le seul drapeau du monde qui n'est pas un rectangle</title>
+  <desc id="desc">À gauche, le drapeau du Népal : deux fanions triangulaires accolés formant un pentagone concave rouge cramoisi à bordure bleue, un croissant de lune dans le fanion du haut et un soleil à douze rayons dans celui du bas. À droite, un rectangle standard au format deux tiers, plus large que haut, posé à côté de la silhouette népalaise, plus haute que large. Une frise rappelle quatre dates : 1962, adoption du drapeau actuel ; 2004, format olympique imposé ; 2016, impression sur fond blanc ; 2020, exception reconnue.</desc>
+
+  <defs>
+    <g id="nepal-flag">
+      <path d="M -15,37.5735931288 h 60 L -15,0 v 80 h 60 L -15,20 z" fill="#003893"/>
+      <g transform="translate(15,40) scale(0.9) translate(-15,-40)">
+        <path d="M -15,37.5735931288 h 60 L -15,0 v 80 h 60 L -15,20 z" fill="#DC143C"/>
+        <g fill="#fff">
+          <path d="M -11.9502769431,23.4834957055 A 12.8400974233,12.8400974233 0 0,0 11.9502769431,23.4834957055 A 11.9502769431 11.9502769431 0 0,1 -11.9502769431,23.4834957055"/>
+          <g transform="translate(0 29.045) scale(5.56106)">
+            <circle r="1"/>
+            <g id="md"><g id="mc"><path id="mb" d="M 0.195090322016,-0.980785280403 L 0,-1.388784109750 L -0.195090322016,-0.980785280403" transform="rotate(11.25)"/><use xlink:href="#mb" transform="rotate(22.5)"/><use xlink:href="#mb" transform="rotate(45)"/></g><use xlink:href="#mc" transform="rotate(67.5)"/></g>
+            <use xlink:href="#md" transform="scale(-1 1)"/>
+          </g>
+          <g transform="matrix(8.1434 0 0 8.1434 0 58.787)">
+            <circle r="1"/>
+            <g id="sg"><g id="sf"><path id="se" d="M 0.258819045103,0.965925826289 L 0,1.576749285537 L -0.258819045103,0.965925826289"/><use xlink:href="#se" transform="rotate(180)"/></g><use xlink:href="#sf" transform="rotate(90)"/></g>
+            <use xlink:href="#sg" transform="rotate(30)"/>
+            <use xlink:href="#sg" transform="rotate(60)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </defs>
+
+  <rect width="1200" height="740" fill="#faf7f0"/>
+
+  <text x="600" y="58" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="32" fill="#26221c">Le seul drapeau du monde qui n'est pas un rectangle</text>
+  <text x="600" y="96" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="19" font-style="italic" fill="#6f675c">Deux fanions accolés, un pentagone concave, une géométrie inscrite dans la constitution</text>
+
+  <line x1="60" y1="128" x2="1140" y2="128" stroke="#ddd6c8" stroke-width="2"/>
+
+  <text x="330" y="172" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="15" fill="#5c767c">LE DRAPEAU DU NÉPAL</text>
+  <text x="880" y="172" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="15" fill="#5c767c">FACE À UN DRAPEAU STANDARD</text>
+
+  <use xlink:href="#nepal-flag" transform="translate(262.5,190) scale(4.5)"/>
+  <text x="330" y="590" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="14" fill="#6f675c">Un pentagone concave : lune en haut, soleil en bas.</text>
+  <text x="330" y="612" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="14" fill="#6f675c">La lune a huit rayons, le soleil en a douze.</text>
+
+  <rect x="660" y="290" width="240" height="160" rx="2" fill="#fbfaf6" stroke="#b9b2a4" stroke-width="2"/>
+  <rect x="660" y="290" width="240" height="53" fill="#3b5b8c"/>
+  <rect x="660" y="397" width="240" height="53" fill="#a8443a"/>
+  <text x="780" y="500" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="15" fill="#5c767c">un drapeau standard</text>
+  <text x="780" y="522" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="17" fill="#26221c">2:3, plus large que haut</text>
+
+  <use xlink:href="#nepal-flag" transform="translate(955,270) scale(3)"/>
+  <text x="1000" y="545" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="15" fill="#5c767c">le Népal</text>
+  <text x="1000" y="567" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="17" fill="#26221c">plus haut que large</text>
+
+  <line x1="100" y1="655" x2="1100" y2="655" stroke="#ddd6c8" stroke-width="2"/>
+  <g font-family="'DejaVu Sans', sans-serif" text-anchor="middle">
+    <circle cx="220" cy="655" r="6" fill="#a8443a"/>
+    <text x="220" y="640" font-size="16" fill="#26221c">1962</text>
+    <text x="220" y="686" font-size="13" fill="#6f675c">drapeau actuel</text>
+
+    <circle cx="500" cy="655" r="6" fill="#3b5b8c"/>
+    <text x="500" y="640" font-size="16" fill="#26221c">2004</text>
+    <text x="500" y="686" font-size="13" fill="#6f675c">format olympique 2:3</text>
+
+    <circle cx="780" cy="655" r="6" fill="#3b5b8c"/>
+    <text x="780" y="640" font-size="16" fill="#26221c">2016</text>
+    <text x="780" y="686" font-size="13" fill="#6f675c">imprimé sur fond blanc</text>
+
+    <circle cx="1060" cy="655" r="6" fill="#a8443a"/>
+    <text x="1060" y="640" font-size="16" fill="#26221c">2020</text>
+    <text x="1060" y="686" font-size="13" fill="#6f675c">seule exception admise</text>
+  </g>
+</svg>
