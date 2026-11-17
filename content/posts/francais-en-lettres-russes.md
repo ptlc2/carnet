@@ -22,7 +22,7 @@ Le français a deux voyelles que beaucoup de langues confondent : le « u » de 
 
 La suite de lettres « oi » se rend par « уа », parce qu'elle se prononce [wa] : « Troyes » s'écrit « Труа ». Et les [voyelles nasales](https://fr.wikipedia.org/wiki/Voyelle_nasale), que le russe ignore, s'étalent en voyelle suivie d'une nasale : « Comte » donne « Конт », « Ambroise » « Амбруаз », « Verdun » « Верден ». C'est un aveu involontaire : le français ne prononce pas « on » et « an » d'un bloc, il prononce une voyelle qui file vers le nez.
 
-Le « h » réserve une petite surprise. La plupart du temps il s'efface, puisque le français ne le prononce pas — y compris devant un [« h » aspiré](https://fr.wikipedia.org/wiki/H_aspir%C3%A9), qui bloque pourtant l'élision. Mais quelques noms depuis longtemps acclimatés en russe le rendent par un « г » : « Hugo » devient « Гюго », « Le Havre » « Гавр ». La chose n'a rien d'automatique — « Les Halles » s'écrit « Ле-Аль » — et relève de la tradition plus que d'une règle. Voilà un vestige que l'orthographe française garde sans l'entendre, et que le russe, selon les mots, fait sonner ou laisse muet.
+Le « h » réserve une petite surprise. La plupart du temps il s'efface, puisque le français ne le prononce pas, y compris devant un [« h » aspiré](https://fr.wikipedia.org/wiki/H_aspir%C3%A9), qui bloque pourtant l'élision. Mais quelques noms depuis longtemps acclimatés en russe le rendent par un « г » : « Hugo » devient « Гюго », « Le Havre » « Гавр ». La chose n'a rien d'automatique : « Les Halles » s'écrit « Ле-Аль », et relève de la tradition plus que d'une règle. Voilà un vestige que l'orthographe française garde sans l'entendre, et que le russe, selon les mots, fait sonner ou laisse muet.
 
 ## Deux systèmes qui se cherchent
 
