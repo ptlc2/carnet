@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" width="1200" height="760" role="img" aria-labelledby="ttl desc">
+  <title id="ttl">Pourquoi le marathon fait 42,195 kilomètres</title>
+  <desc id="desc">Deux panneaux. En haut, le parcours du marathon de 1908 : une route part du château de Windsor, à gauche, jusqu'au stade de White City, à droite, soit environ 26 miles ; à l'arrivée, un petit tour de piste de 385 yards devant la tribune royale complète la distance. En bas, la distance des marathons olympiques année par année de 1896 à 1920, avec une ligne de repère à 42,195 km que seul 1908 atteint, avant que la fédération internationale ne fixe cette valeur en 1921.</desc>
+
+  <rect width="1200" height="760" fill="#faf7f0"/>
+
+  <text x="600" y="58" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#26221c">Pourquoi le marathon fait 42,195 kilomètres</text>
+  <text x="600" y="96" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="19" font-style="italic" fill="#6f675c">Une longueur née à Londres en 1908, et jamais rediscutée</text>
+
+  <line x1="60" y1="128" x2="1140" y2="128" stroke="#ddd6c8" stroke-width="2"/>
+
+  <text x="600" y="168" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="15" fill="#5c767c">LE PARCOURS DE 1908</text>
+
+  <!-- route Windsor -> White City -->
+  <path d="M170 300 C 320 262, 440 336, 580 300 S 800 262, 960 300" fill="none" stroke="#c9c2b4" stroke-width="6" stroke-linecap="round"/>
+
+  <!-- chateau de Windsor (depart) -->
+  <g stroke="#9c4a1e" stroke-width="2.4" fill="#f3ecdd">
+    <rect x="112" y="266" width="76" height="34"/>
+    <rect x="104" y="240" width="20" height="60"/>
+    <rect x="176" y="240" width="20" height="60"/>
+  </g>
+  <g fill="#9c4a1e">
+    <rect x="108" y="234" width="6" height="8"/>
+    <rect x="118" y="234" width="6" height="8"/>
+    <rect x="180" y="234" width="6" height="8"/>
+    <rect x="190" y="234" width="6" height="8"/>
+    <rect x="132" y="260" width="8" height="8"/>
+    <rect x="152" y="260" width="8" height="8"/>
+  </g>
+  <line x1="150" y1="300" x2="150" y2="318" stroke="#9c4a1e" stroke-width="2"/>
+  <text x="150" y="212" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="14" fill="#26221c">Château de Windsor</text>
+  <text x="150" y="230" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="12" fill="#6f675c">départ, sur la pelouse privée</text>
+
+  <!-- stade de White City (arrivee) -->
+  <ellipse cx="1050" cy="300" rx="82" ry="52" fill="#f3ecdd" stroke="#9c4a1e" stroke-width="2.6"/>
+  <ellipse cx="1050" cy="300" rx="46" ry="26" fill="none" stroke="#9c4a1e" stroke-width="1.6" stroke-dasharray="6 5"/>
+  <rect x="1024" y="240" width="52" height="14" rx="2" fill="#9c4a1e"/>
+  <text x="1050" y="212" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="14" fill="#26221c">White City Stadium</text>
+  <text x="1050" y="230" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="12" fill="#6f675c">arrivée, devant la tribune royale</text>
+
+  <!-- mesure des 26 miles -->
+  <line x1="170" y1="386" x2="968" y2="386" stroke="#9c4a1e" stroke-width="1.6"/>
+  <line x1="170" y1="378" x2="170" y2="394" stroke="#9c4a1e" stroke-width="1.6"/>
+  <line x1="968" y1="378" x2="968" y2="394" stroke="#9c4a1e" stroke-width="1.6"/>
+  <text x="569" y="378" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="14" fill="#9c4a1e">26 miles (≈ 41,8 km)</text>
+
+  <!-- le tour de piste de 385 yards -->
+  <line x1="1050" y1="352" x2="1050" y2="398" stroke="#5c767c" stroke-width="1.4" stroke-dasharray="4 4"/>
+  <text x="1050" y="418" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="14" fill="#5c767c">+ 385 yards, un tour de piste</text>
+  <text x="1050" y="436" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="12" fill="#6f675c">raccourci pour que le public voie l'arrivée</text>
+
+  <line x1="60" y1="470" x2="1140" y2="470" stroke="#ddd6c8" stroke-width="2"/>
+
+  <text x="600" y="510" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="15" fill="#5c767c">LA DISTANCE DES MARATHONS OLYMPIQUES</text>
+
+  <!-- repere 42,195 km -->
+  <line x1="120" y1="600" x2="1080" y2="600" stroke="#9c4a1e" stroke-width="1.6" stroke-dasharray="7 6"/>
+  <text x="128" y="592" font-family="'DejaVu Sans', sans-serif" font-size="14" fill="#9c4a1e">42,195 km</text>
+
+  <!-- axe des annees -->
+  <line x1="120" y1="690" x2="1090" y2="690" stroke="#c9c2b4" stroke-width="2"/>
+
+  <!-- points : (annee, distance) -->
+  <polyline points="180,668 290,660 400,668 510,614 620,604 730,662 840,588" fill="none" stroke="#c9c2b4" stroke-width="2"/>
+  <g fill="#5c767c">
+    <circle cx="180" cy="668" r="5"/>
+    <circle cx="290" cy="660" r="5"/>
+    <circle cx="400" cy="668" r="5"/>
+    <circle cx="510" cy="614" r="5"/>
+    <circle cx="730" cy="662" r="5"/>
+    <circle cx="840" cy="588" r="5"/>
+  </g>
+  <circle cx="620" cy="604" r="8" fill="#9c4a1e"/>
+
+  <g font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#26221c" text-anchor="middle">
+    <text x="180" y="650">40</text>
+    <text x="290" y="642">40,26</text>
+    <text x="400" y="650">40</text>
+    <text x="510" y="596">41,86</text>
+    <text x="620" y="586" fill="#9c4a1e">42,195</text>
+    <text x="730" y="644">40,2</text>
+    <text x="840" y="570">42,75</text>
+  </g>
+
+  <g font-family="'DejaVu Sans', sans-serif" font-size="14" fill="#6f675c" text-anchor="middle">
+    <text x="180" y="712">1896</text>
+    <text x="290" y="712">1900</text>
+    <text x="400" y="712">1904</text>
+    <text x="510" y="712">1906</text>
+    <text x="620" y="712" fill="#9c4a1e">1908</text>
+    <text x="730" y="712">1912</text>
+    <text x="840" y="712">1920</text>
+  </g>
+
+  <!-- standard 1921 -->
+  <line x1="985" y1="540" x2="985" y2="690" stroke="#9c4a1e" stroke-width="1.6"/>
+  <text x="985" y="530" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="14" fill="#9c4a1e">1921</text>
+  <text x="985" y="548" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="12" fill="#6f675c">la fédération</text>
+  <text x="985" y="564" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="12" fill="#6f675c">fixe la distance</text>
+</svg>
