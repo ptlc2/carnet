@@ -1,7 +1,6 @@
 ---
 title: "Le français écrit en lettres russes"
 date: 2026-11-20
-draft: true
 tags: ["langue", "écriture"]
 summary: "Écrire le français en alphabet cyrillique, c'est presque le réécrire phonétiquement. Les lettres muettes disparaissent, les nasales s'étalent, et l'exercice montre tout ce que l'orthographe française cache."
 ---
