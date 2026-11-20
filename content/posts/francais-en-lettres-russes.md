@@ -17,7 +17,7 @@ D'abord, tout ce qui est muet s'efface. Le « e » final de « Charles » ne s'e
 
 L'exercice devient intéressant quand les deux langues ne découpent pas les sons de la même façon.
 
-Le français a deux voyelles que beaucoup de langues confondent : le « u » de « lune » et le « ou » de « loup ». Le russe, lui, les distingue nettement, et les note « ю » et « у ». « L'Humanité » devient « Юманите » : le « h » muet disparaît, le « u » devient « ю », et le mot se lit presque à voix haute.
+Le français a deux voyelles que beaucoup de langues confondent : le « u » de « lune » et le « ou » de « loup ». Le « ou » se rend sans effort, puisque c'est le « у » russe, le même son exactement. Le « u », lui, n'a pas d'équivalent : cette voyelle n'existe pas en russe. Faute de mieux, on l'écrit « ю », qui se prononce « you » et non « u ». C'est une approximation, pas une équivalence. « L'Humanité » devient « Юманите » : le « h » muet disparaît, le « u » passe dans ce « ю », et le mot se lit presque à voix haute.
 
 La suite de lettres « oi » se rend par « уа », parce qu'elle se prononce [wa] : « Troyes » s'écrit « Труа ». Et les [voyelles nasales](https://fr.wikipedia.org/wiki/Voyelle_nasale), que le russe ignore, s'étalent en voyelle suivie d'une nasale : « Comte » donne « Конт », « Ambroise » « Амбруаз », « Verdun » « Верден ». C'est un aveu involontaire : le français ne prononce pas « on » et « an » d'un bloc, il prononce une voyelle qui file vers le nez.
 
