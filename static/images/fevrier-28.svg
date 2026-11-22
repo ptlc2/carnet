@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 780" width="1200" height="780" role="img" aria-labelledby="ttl desc">
+  <title id="ttl">Pourquoi février n'a que vingt-huit jours</title>
+  <desc id="desc">En haut, la barre des douze mois de l'année actuelle : février, mis en évidence, ne compte que 28 jours, tous les autres 30 ou 31. En bas, une frise de quatre étapes du calendrier romain : vers 753 av. J.-C. dix mois de mars à décembre et l'hiver hors calendrier ; vers 713 av. J.-C. le roi Numa ajoute janvier et février à la fin de l'année et février, mois des morts, reçoit 28 jours ; vers 450 av. J.-C. février passe en deuxième position ; en 45 av. J.-C. la réforme julienne place en février le jour des années bissextiles.</desc>
+  <rect width="1200" height="780" fill="#faf7f0"/>
+  <text x="600" y="54" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#26221c">Pourquoi février n'a que vingt-huit jours</text>
+  <text x="600" y="92" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="19" font-style="italic" fill="#6f675c">Un reste d'un calendrier où l'hiver ne comptait pas, et où les nombres pairs portaient malheur</text>
+  <line x1="60" y1="120" x2="1140" y2="120" stroke="#ddd6c8" stroke-width="2"/>
+  <text x="60" y="158" font-family="'DejaVu Sans', sans-serif" font-size="13.5" letter-spacing="1" fill="#6f675c">L'ANNÉE D'AUJOURD'HUI</text>
+  <rect x="60.0" y="178" width="91.7" height="78" fill="#efe9dc" stroke="#ddd6c8" stroke-width="1.5"/>
+  <text x="105.9" y="212" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="15" font-weight="bold" fill="#26221c">Jan</text>
+  <text x="105.9" y="235" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#26221c">31</text>
+  <rect x="151.7" y="178" width="82.8" height="78" fill="#9c4a1e" stroke="#ddd6c8" stroke-width="1.5"/>
+  <text x="193.2" y="212" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="15" font-weight="bold" fill="#faf7f0">Fév</text>
+  <text x="193.2" y="235" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#faf7f0">28</text>
+  <rect x="234.6" y="178" width="91.7" height="78" fill="#efe9dc" stroke="#ddd6c8" stroke-width="1.5"/>
+  <text x="280.4" y="212" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="15" font-weight="bold" fill="#26221c">Mar</text>
+  <text x="280.4" y="235" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#26221c">31</text>
+  <rect x="326.3" y="178" width="88.8" height="78" fill="#efe9dc" stroke="#ddd6c8" stroke-width="1.5"/>
+  <text x="370.7" y="212" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="15" font-weight="bold" fill="#26221c">Avr</text>
+  <text x="370.7" y="235" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#26221c">30</text>
+  <rect x="415.1" y="178" width="91.7" height="78" fill="#efe9dc" stroke="#ddd6c8" stroke-width="1.5"/>
+  <text x="460.9" y="212" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="15" font-weight="bold" fill="#26221c">Mai</text>
+  <text x="460.9" y="235" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#26221c">31</text>
+  <rect x="506.8" y="178" width="88.8" height="78" fill="#efe9dc" stroke="#ddd6c8" stroke-width="1.5"/>
+  <text x="551.2" y="212" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="15" font-weight="bold" fill="#26221c">Juin</text>
+  <text x="551.2" y="235" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#26221c">30</text>
+  <rect x="595.6" y="178" width="91.7" height="78" fill="#efe9dc" stroke="#ddd6c8" stroke-width="1.5"/>
+  <text x="641.4" y="212" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="15" font-weight="bold" fill="#26221c">Juil</text>
+  <text x="641.4" y="235" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#26221c">31</text>
+  <rect x="687.3" y="178" width="91.7" height="78" fill="#efe9dc" stroke="#ddd6c8" stroke-width="1.5"/>
+  <text x="733.2" y="212" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="15" font-weight="bold" fill="#26221c">Août</text>
+  <text x="733.2" y="235" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#26221c">31</text>
+  <rect x="779.0" y="178" width="88.8" height="78" fill="#efe9dc" stroke="#ddd6c8" stroke-width="1.5"/>
+  <text x="823.4" y="212" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="15" font-weight="bold" fill="#26221c">Sep</text>
+  <text x="823.4" y="235" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#26221c">30</text>
+  <rect x="867.8" y="178" width="91.7" height="78" fill="#efe9dc" stroke="#ddd6c8" stroke-width="1.5"/>
+  <text x="913.6" y="212" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="15" font-weight="bold" fill="#26221c">Oct</text>
+  <text x="913.6" y="235" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#26221c">31</text>
+  <rect x="959.5" y="178" width="88.8" height="78" fill="#efe9dc" stroke="#ddd6c8" stroke-width="1.5"/>
+  <text x="1003.9" y="212" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="15" font-weight="bold" fill="#26221c">Nov</text>
+  <text x="1003.9" y="235" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#26221c">30</text>
+  <rect x="1048.3" y="178" width="91.7" height="78" fill="#efe9dc" stroke="#ddd6c8" stroke-width="1.5"/>
+  <text x="1094.1" y="212" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="15" font-weight="bold" fill="#26221c">Déc</text>
+  <text x="1094.1" y="235" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#26221c">31</text>
+  <path d="M 147.2 268 q 46 26 92 0" fill="none" stroke="#9c4a1e" stroke-width="2"/>
+  <text x="193.2" y="308" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#9c4a1e">28 jours, 29 les années bissextiles</text>
+  <line x1="60" y1="352" x2="1140" y2="352" stroke="#ddd6c8" stroke-width="2"/>
+  <text x="60" y="392" font-family="'DejaVu Sans', sans-serif" font-size="13.5" letter-spacing="1" fill="#6f675c">COMMENT ON EN EST ARRIVÉ LÀ</text>
+  <line x1="150" y1="470" x2="1050" y2="470" stroke="#26221c" stroke-width="2.5"/>
+  <circle cx="150" cy="470" r="9" fill="#9c4a1e"/>
+  <text x="150" y="444" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="15.5" font-weight="bold" fill="#9c4a1e">v. 753 av. J.-C.</text>
+  <text x="150" y="504" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#26221c">Dix mois, de mars à décembre.</text>
+  <text x="150" y="525" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#26221c">Les 61 jours d'hiver ne font partie</text>
+  <text x="150" y="546" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#26221c">d'aucun mois : on cesse de compter.</text>
+  <circle cx="455" cy="470" r="9" fill="#9c4a1e"/>
+  <text x="455" y="444" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="15.5" font-weight="bold" fill="#9c4a1e">v. 713 av. J.-C.</text>
+  <text x="455" y="504" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#26221c">Le roi Numa ajoute janvier et</text>
+  <text x="455" y="525" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#26221c">février, à la fin de l'année. Février,</text>
+  <text x="455" y="546" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#26221c">mois des morts, reçoit 28 jours :</text>
+  <text x="455" y="567" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#26221c">un nombre pair, réputé néfaste.</text>
+  <circle cx="755" cy="470" r="9" fill="#9c4a1e"/>
+  <text x="755" y="444" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="15.5" font-weight="bold" fill="#9c4a1e">v. 450 av. J.-C.</text>
+  <text x="755" y="504" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#26221c">Février passe en deuxième</text>
+  <text x="755" y="525" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#26221c">position, mais garde sa longueur.</text>
+  <text x="755" y="546" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#26221c">Un mois de 28 jours reste le</text>
+  <text x="755" y="567" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#26221c">seul à faire quatre semaines.</text>
+  <circle cx="1050" cy="470" r="9" fill="#9c4a1e"/>
+  <text x="1050" y="444" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="15.5" font-weight="bold" fill="#9c4a1e">45 av. J.-C.</text>
+  <text x="1050" y="504" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#26221c">Réforme julienne : le jour en plus</text>
+  <text x="1050" y="525" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#26221c">des années bissextiles tombe en</text>
+  <text x="1050" y="546" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#26221c">février. La légende qui veut</text>
+  <text x="1050" y="567" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#26221c">qu'Auguste lui ait pris un jour</text>
+  <text x="1050" y="588" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#26221c">n'est pas attestée.</text>
+</svg>
