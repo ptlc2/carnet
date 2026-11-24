@@ -1,7 +1,6 @@
 ---
 title: "Le pain rassis n'a pas séché"
 date: 2026-11-24
-draft: true
 tags: ["quotidien", "sciences"]
 summary: "On croit que le pain durcit parce qu'il a perdu son eau. C'est faux : son amidon se recristallise. D'où trois paradoxes, le réfrigérateur qui accélère, le congélateur qui stoppe, et le four qui défait."
 ---
