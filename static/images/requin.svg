@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 820" width="1200" height="820" role="img" aria-labelledby="ttl desc">
+  <title id="ttl">Personne ne sait d'où vient le mot « requin »</title>
+  <desc id="desc">Deux panneaux. À gauche, avant le XVIe siècle, le requin s'appelait le chien de mer, une métaphore canine reprise d'Aristote et de Pline. À droite, à partir de 1539, le mot requin apparaît, mais son origine reste controversée. En bas, une frise des graphies successives : requin 1539, requien 1578, rechien 1614, requiem 1695, requin à l'Académie en 1740.</desc>
+
+  <rect width="1200" height="820" fill="#faf7f0"/>
+
+  <text x="600" y="56" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#26221c">Personne ne sait d'où vient le mot « requin »</text>
+  <text x="600" y="92" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="19" font-style="italic" fill="#6f675c">Le requin s'appelait le chien de mer</text>
+
+  <line x1="60" y1="140" x2="1140" y2="140" stroke="#ddd6c8" stroke-width="2"/>
+
+  <line x1="600" y1="176" x2="600" y2="596" stroke="#ddd6c8" stroke-width="2"/>
+
+  <text x="330" y="212" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="14" fill="#5c767c">AVANT LE XVIe SIÈCLE</text>
+  <text x="330" y="248" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="#9c4a1e">le chien de mer</text>
+
+  <g stroke="#26221c" stroke-width="2" stroke-linejoin="round">
+    <path d="M182 389 L132 350 L156 398 L132 448 L182 407 Z" fill="#9aa8ad"/>
+    <path d="M386 362 L356 306 L322 360 Z" fill="#9aa8ad"/>
+    <path d="M380 430 L356 476 L320 434 Z" fill="#9aa8ad"/>
+    <path d="M518 399 C500 388 470 374 430 367 C375 358 305 362 252 376 C226 383 200 390 178 397 C200 404 226 411 252 418 C305 432 375 436 430 427 C470 420 500 410 518 399 Z" fill="#9aa8ad"/>
+  </g>
+  <path d="M518 399 C500 407 480 412 458 413" fill="none" stroke="#26221c" stroke-width="2"/>
+  <g stroke="#26221c" stroke-width="2">
+    <line x1="428" y1="374" x2="428" y2="400"/>
+    <line x1="437" y1="372" x2="437" y2="402"/>
+    <line x1="446" y1="371" x2="446" y2="403"/>
+  </g>
+  <circle cx="478" cy="388" r="4.5" fill="#26221c"/>
+
+  <g font-family="'DejaVu Sans', sans-serif" font-size="16" fill="#6f675c">
+    <text x="330" y="516" text-anchor="middle">dents acérées, odorat de limier :</text>
+    <text x="330" y="542" text-anchor="middle">la métaphore du chien vient de loin</text>
+    <text x="330" y="574" text-anchor="middle" font-size="15">Aristote : kuôn · Pline : canis marinus</text>
+  </g>
+
+  <text x="870" y="212" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="14" fill="#5c767c">À PARTIR DE 1539</text>
+  <text x="870" y="248" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="#9c4a1e">un mot neuf et flou</text>
+
+  <text x="870" y="366" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="72" fill="#26221c">requin</text>
+  <text x="1032" y="330" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="72" fill="#9c4a1e">?</text>
+
+  <g font-family="'DejaVu Sans', sans-serif" font-size="16" fill="#6f675c">
+    <text x="870" y="420" text-anchor="middle" font-style="italic">origine controversée</text>
+    <text x="870" y="462" text-anchor="middle">« quin », chien en normand, renforcé</text>
+    <text x="870" y="490" text-anchor="middle">« raque », la vase des fonds</text>
+    <text x="870" y="518" text-anchor="middle">« rechigner », montrer les dents</text>
+    <text x="870" y="566" text-anchor="middle" font-size="15">et la fausse piste du « requiem »</text>
+  </g>
+
+  <line x1="60" y1="620" x2="1140" y2="620" stroke="#ddd6c8" stroke-width="2"/>
+  <text x="600" y="654" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="14" fill="#5c767c">DEUX SIÈCLES POUR FIXER LA GRAPHIE</text>
+
+  <line x1="150" y1="700" x2="1050" y2="700" stroke="#ddd6c8" stroke-width="2"/>
+  <g font-family="Georgia, 'Times New Roman', serif" font-size="26" fill="#26221c" text-anchor="middle">
+    <text x="150" y="690">requin</text>
+    <text x="375" y="690">requien</text>
+    <text x="600" y="690">rechien</text>
+    <text x="825" y="690">requiem</text>
+    <text x="1050" y="690">requin</text>
+  </g>
+  <g fill="#9c4a1e">
+    <circle cx="150" cy="700" r="6"/>
+    <circle cx="375" cy="700" r="6"/>
+    <circle cx="600" cy="700" r="6"/>
+    <circle cx="825" cy="700" r="6"/>
+    <circle cx="1050" cy="700" r="6"/>
+  </g>
+  <g font-family="'DejaVu Sans', sans-serif" font-size="15" fill="#6f675c" text-anchor="middle">
+    <text x="150" y="740">1539</text>
+    <text x="375" y="740">1578</text>
+    <text x="600" y="740">1614</text>
+    <text x="825" y="740">1695</text>
+    <text x="1050" y="740">1740</text>
+  </g>
+  <g font-family="'DejaVu Sans', sans-serif" font-size="13" fill="#6f675c" text-anchor="middle">
+    <text x="1050" y="762">Académie</text>
+  </g>
+
+  <text x="600" y="800" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="17" fill="#5c767c">Un animal vieux de quatre cents millions d'années, un nom que personne ne sait expliquer.</text>
+</svg>
