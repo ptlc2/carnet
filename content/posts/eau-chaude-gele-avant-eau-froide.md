@@ -1,7 +1,6 @@
 ---
 title: "L'eau chaude gèle parfois avant l'eau froide"
 date: 2026-11-27
-draft: true
 tags: ["sciences", "quotidien"]
 summary: "Deux récipients au congélateur, l'un brûlant, l'autre tiède : le brûlant peut geler le premier. Le fait était connu d'Aristote, redécouvert par un lycéen tanzanien en 1963, et les physiciens n'ont toujours pas tranché."
 ---
